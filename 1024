@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,安徽卫视
-https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
-#EXTINF:-1 ,安徽卫视
-https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1 ,安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 ,安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
