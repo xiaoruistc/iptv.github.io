@@ -65,9 +65,9 @@ http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 ,安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 ,凤凰中文
-https://live.hkdvb.com/hls/live/504.m3u8?token=319460259026495
+https://live.hkdvb.com/hls/live/504.m3u8?token=319460259026495&edge=live.tvfree.sbs
 #EXTINF:-1 ,凤凰资讯
-https://live.hkdvb.com/hls/live/505.m3u8?token=319460259026495
+https://live.hkdvb.com/hls/live/505.m3u8?token=319460259026495&edge=live.tvfree.sbs
 
 #EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/28/0064284026/u64284026d7iMqBQlL.png" group-title="zonghe", 绝版电影 港片女鬼
 http://192.168.31.3:35455/yy/1455988450
