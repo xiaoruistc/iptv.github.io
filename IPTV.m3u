@@ -1,0 +1,108 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+# 央视频道
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1-高码
+http://192.168.31.3:35455/gaoma/cctv1.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2-高码
+http://192.168.31.3:35455/gaoma/cctv2.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",cctv3-高码
+http://192.168.31.3:35455/gaoma/cctv3.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",cctv4-高码
+http://192.168.31.3:35455/gaoma/cctv4.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5-高码
+http://192.168.31.3:35455/gaoma/cctv5.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5+
+http://192.168.31.3:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6
+http://192.168.31.3:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",cctv8-高码
+http://192.168.31.3:35455/gaoma/cctv8.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",cctv10-高码
+http://192.168.31.3:35455/gaoma/cctv10.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",cctv13-高码
+http://192.168.31.3:35455/gaoma/cctv13.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",cctv14-高码
+http://192.168.31.3:35455/gaoma/cctv14.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",cctv15-高码
+http://192.168.31.3:35455/gaoma/cctv15.m3u8
+
+# 卫视频道
+#EXTINF:-1 , group-title="卫视",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 , group-title="卫视",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 , group-title="卫视",凤凰中文
+https://live.hkdvb.com/hls/live/504.m3u8?token=319460259026495&edge=live.tvfree.sbs
+#EXTINF:-1 , group-title="卫视",凤凰资讯
+https://live.hkdvb.com/hls/live/505.m3u8?token=319460259026495&edge=live.tvfree.sbs
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.31.3:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",上海东方卫视
+http://192.168.31.3:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视-50-FPS
+http://192.168.31.3:35455/itv/5000000004000007275.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.31.3:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.31.3:35455/itv/5000000004000010584.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.31.3:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://192.168.31.3:35455/itv/5000000004000006692.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视-50-FPS
+http://192.168.31.3:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.31.3:35455/itv/5000000004000011671.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.31.3:35455/itv/5000000004000007410.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.31.3:35455/itv/5000000004000006827.m3u8?cdn=bestzb
+
+
+#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://192.168.31.3:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="北京",萌宠TV
+http://192.168.31.3:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1,tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="北京",淘BABY
+http://192.168.31.3:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1,tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="北京",淘剧场
+http://192.168.31.3:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1,tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="北京",淘电影
+http://192.168.31.3:35455/bptv/10000100000000050000000003887498.m3u8
+
+
+
+
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png" group-title="上海",上海第一财经
+http://192.168.31.3:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/28/0064284026/u64284026d7iMqBQlL.png" group-title="zonghe", 绝版电影 港片女鬼
+http://192.168.31.3:35455/yy/1455988450
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="zonghe", 武林外传
+http://192.168.31.3:35455/yy/1355652820
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2242788982/u2242788982KKxPFSF.jpg" group-title="zonghe", 武林外传 超清
+http://192.168.31.3:35455/yy/21092633
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10138.jpg" group-title="zonghe", 赵本山《超清版》
+http://192.168.31.3:35455/yy/1382683959
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2910095991/u29100959911f7FBSS.png" group-title="zonghe", 纪晓岚
+http://192.168.31.3:35455/yy/1382781415
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2353689237/u2353689237IPcZthE.jpg" group-title="zonghe", 【林正英经典】玄幻电影
+http://192.168.31.3:35455/yy/1462895099
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/47/0990479943/u990479943HazBdS_8.jpg" group-title="zonghe", 功夫经典武侠
+http://192.168.31.3:35455/yy/74613175
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/45/2288454061/u2288454061D_S5gvc.jpg" group-title="zonghe", 狄仁杰
+http://192.168.31.3:35455/yy/1353753252
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2632685817/u2632685817Hyt_tdJ.jpg" group-title="zonghe", 港片 喜剧
+http://192.168.31.3:35455/yy/1355112116
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/53/2474538699/u2474538699rCvSZxg.jpg" group-title="zonghe", 包青天
+http://192.168.31.3:35455/yy/22701868
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/04/1276043109/u1276043109cbWlqQb.png" group-title="zonghe", 少年包青天蓝光版
+http://192.168.31.3:35455/yy/38498680
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/2552474200/u2552474200Qy8nGLL.png" group-title="zonghe", 我和僵尸有个约会
+http://192.168.31.3:35455/yy/1354143966
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/13/2345135168/u23451351684XL-T35.png" group-title="zonghe", 康熙微服私访记
+http://192.168.31.3:35455/yy/1352811698
