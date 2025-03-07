@@ -81,6 +81,42 @@ http://192.168.31.3:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="综合",纯享-4K
 http://192.168.31.3:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 
+
+
+# 网络轮播
+#EXTINF:-1  group-title="网络轮播", 电影港片
+http://192.168.31.3:35455/yy/1455988450
+#EXTINF:-1  group-title="网络轮播", 武林外传
+http://192.168.31.3:35455/yy/1355652820
+#EXTINF:-1  group-title="网络轮播", 武林外传超清
+http://192.168.31.3:35455/yy/21092633
+#EXTINF:-1  group-title="网络轮播", 赵本山
+http://192.168.31.3:35455/yy/1382683959
+#EXTINF:-1  group-title="网络轮播", 纪晓岚
+http://192.168.31.3:35455/yy/1382781415
+#EXTINF:-1  group-title="网络轮播", 林正英经典
+http://192.168.31.3:35455/yy/1462895099
+#EXTINF:-1  group-title="网络轮播", 功夫经典武侠
+http://192.168.31.3:35455/yy/74613175
+#EXTINF:-1  group-title="网络轮播", 狄仁杰
+http://192.168.31.3:35455/yy/1353753252
+#EXTINF:-1  group-title="网络轮播", 港片喜剧
+http://192.168.31.3:35455/yy/1355112116
+#EXTINF:-1  group-title="网络轮播", 周星驰
+http://192.168.31.3:35455/yy/1354889048
+#EXTINF:-1  group-title="网络轮播", 周星驰2
+http://192.168.31.3:35455/yy/38670875
+#EXTINF:-1  group-title="网络轮播", 邵氏电影
+http://192.168.31.3:35455/douyu/4246519
+#EXTINF:-1  group-title="网络轮播", 包青天
+http://192.168.31.3:35455/yy/22701868
+#EXTINF:-1  group-title="网络轮播", 少年包青天蓝光版
+http://192.168.31.3:35455/yy/38498680
+#EXTINF:-1  group-title="网络轮播", 我和僵尸有个约会
+http://192.168.31.3:35455/yy/1354143966
+#EXTINF:-1  group-title="网络轮播", 康熙微服私访记
+http://192.168.31.3:35455/yy/1352811698
+
 # 体育频道
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="体育",上海五星体育
 http://192.168.31.3:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -176,37 +212,3 @@ http://192.168.31.3:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://192.168.31.3:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="体育",咪咕视频_8M1080_咪视通-45
 http://192.168.31.3:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-
-# 网络轮播
-#EXTINF:-1  group-title="网络轮播", 绝版电影 港片女鬼
-http://192.168.31.3:35455/yy/1455988450
-#EXTINF:-1  group-title="网络轮播", 武林外传
-http://192.168.31.3:35455/yy/1355652820
-#EXTINF:-1  group-title="网络轮播", 武林外传超清
-http://192.168.31.3:35455/yy/21092633
-#EXTINF:-1  group-title="网络轮播", 赵本山《超清版》
-http://192.168.31.3:35455/yy/1382683959
-#EXTINF:-1  group-title="网络轮播", 纪晓岚
-http://192.168.31.3:35455/yy/1382781415
-#EXTINF:-1  group-title="网络轮播", 【林正英经典】玄幻电影
-http://192.168.31.3:35455/yy/1462895099
-#EXTINF:-1  group-title="网络轮播", 功夫经典武侠
-http://192.168.31.3:35455/yy/74613175
-#EXTINF:-1  group-title="网络轮播", 狄仁杰
-http://192.168.31.3:35455/yy/1353753252
-#EXTINF:-1  group-title="网络轮播", 港片喜剧
-http://192.168.31.3:35455/yy/1355112116
-#EXTINF:-1  group-title="网络轮播", 周星驰
-http://192.168.31.3:35455/yy/1354889048
-#EXTINF:-1  group-title="网络轮播", 周星驰
-http://192.168.31.3:35455/yy/38670875
-#EXTINF:-1  group-title="网络轮播", 邵氏电影
-http://192.168.31.3:35455/douyu/4246519
-#EXTINF:-1  group-title="网络轮播", 包青天
-http://192.168.31.3:35455/yy/22701868
-#EXTINF:-1  group-title="网络轮播", 少年包青天蓝光版
-http://192.168.31.3:35455/yy/38498680
-#EXTINF:-1  group-title="网络轮播", 我和僵尸有个约会
-http://192.168.31.3:35455/yy/1354143966
-#EXTINF:-1  group-title="网络轮播", 康熙微服私访记
-http://192.168.31.3:35455/yy/1352811698
