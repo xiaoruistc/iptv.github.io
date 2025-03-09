@@ -30,9 +30,9 @@ http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 , group-title="卫视",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 , group-title="卫视",凤凰中文
-https://live.hkdvb.com/hls/live/504.m3u8?token=319460259026495&edge=live.tvfree.sbs
+https://live.hkdvb.com/hls/live/504.m3u8?token=319460259026495&edge=edge3.hkdvb.com
 #EXTINF:-1 , group-title="卫视",凤凰资讯
-https://live.hkdvb.com/hls/live/505.m3u8?token=319460259026495&edge=live.tvfree.sbs
+https://live.hkdvb.com/hls/live/505.m3u8?token=319460259026495&edge=edge3.hkdvb.com
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.31.3:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",上海东方卫视
@@ -80,6 +80,8 @@ http://192.168.31.3:35455/bptv/10000100000000050000000003887498.m3u8
 http://192.168.31.3:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="综合",纯享-4K
 http://192.168.31.3:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="综合", HBO[直播]
+https://live.hkdvb.com/hls/live/115.m3u8?token=319460259026495&edge=edge3.hkdvb.com
 
 
 
