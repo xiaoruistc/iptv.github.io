@@ -88,6 +88,8 @@ https://live.hkdvb.com/hls/live/115.m3u8?token=319460259026495&edge=edge3.hkdvb.
 # 网络轮播
 #EXTINF:-1  group-title="网络轮播", 电影港片
 http://192.168.31.3:35455/yy/1455988450
+#EXTINF:-1  group-title="网络轮播", 女团MV
+http://192.168.191.237:35455/douyu/11327316
 #EXTINF:-1  group-title="网络轮播", 武林外传
 http://192.168.31.3:35455/yy/1355652820
 #EXTINF:-1  group-title="网络轮播", 武林外传超清
