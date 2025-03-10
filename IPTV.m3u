@@ -88,10 +88,26 @@ https://live.hkdvb.com/hls/live/115.m3u8?token=319460259026495&edge=edge3.hkdvb.
 # 网络轮播
 #EXTINF:-1  group-title="网络轮播", 电影港片
 http://192.168.31.3:35455/yy/1455988450
-#EXTINF:-1  group-title="网络轮播", 女团MV
-http://192.168.31.3:35455/douyu/11327316
+#EXTINF:-1  group-title="网络轮播", 恐怖电影
+http://192.168.31.3:35455/yy/24066336
+#EXTINF:-1  group-title="网络轮播", 港片喜剧
+http://192.168.31.3:35455/yy/1355112116
 #EXTINF:-1  group-title="网络轮播", 怀旧电影
 http://192.168.31.3:35455/douyu/12143022
+#EXTINF:-1  group-title="网络轮播", 周星驰
+http://192.168.31.3:35455/yy/1354889048
+#EXTINF:-1  group-title="网络轮播", 周星驰2
+http://192.168.31.3:35455/yy/38670875
+#EXTINF:-1  group-title="网络轮播", 林正英经典
+http://192.168.31.3:35455/yy/1462895099
+#EXTINF:-1  group-title="网络轮播", 邵氏电影
+http://192.168.31.3:35455/douyu/4246519
+#EXTINF:-1  group-title="网络轮播", 功夫经典武侠
+http://192.168.31.3:35455/yy/74613175
+
+#EXTINF:-1  group-title="网络轮播", 女团MV
+http://192.168.31.3:35455/douyu/11327316
+
 #EXTINF:-1  group-title="网络轮播", 武林外传
 http://192.168.31.3:35455/yy/1355652820
 #EXTINF:-1  group-title="网络轮播", 武林外传超清
@@ -100,20 +116,10 @@ http://192.168.31.3:35455/yy/21092633
 http://192.168.31.3:35455/yy/1382683959
 #EXTINF:-1  group-title="网络轮播", 纪晓岚
 http://192.168.31.3:35455/yy/1382781415
-#EXTINF:-1  group-title="网络轮播", 林正英经典
-http://192.168.31.3:35455/yy/1462895099
-#EXTINF:-1  group-title="网络轮播", 功夫经典武侠
-http://192.168.31.3:35455/yy/74613175
+
+
 #EXTINF:-1  group-title="网络轮播", 狄仁杰
 http://192.168.31.3:35455/yy/1353753252
-#EXTINF:-1  group-title="网络轮播", 港片喜剧
-http://192.168.31.3:35455/yy/1355112116
-#EXTINF:-1  group-title="网络轮播", 周星驰
-http://192.168.31.3:35455/yy/1354889048
-#EXTINF:-1  group-title="网络轮播", 周星驰2
-http://192.168.31.3:35455/yy/38670875
-#EXTINF:-1  group-title="网络轮播", 邵氏电影
-http://192.168.31.3:35455/douyu/4246519
 #EXTINF:-1  group-title="网络轮播", 包青天
 http://192.168.31.3:35455/yy/22701868
 #EXTINF:-1  group-title="网络轮播", 少年包青天蓝光版
