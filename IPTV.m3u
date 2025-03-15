@@ -80,26 +80,21 @@ http://192.168.31.3:35455/bptv/10000100000000050000000003887498.m3u8
 http://192.168.31.3:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="综合",纯享-4K
 http://192.168.31.3:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.hkdvb.com/static/logos/115.png" group-title="综合", HBO[直播]
-https://live.hkdvb.com/hls/live/115.m3u8?token=319460259026495&edge=edge3.hkdvb.com
+
 
 
 
 # 网络轮播
-#EXTINF:-1  group-title="网络轮播", 电影港片
-http://192.168.31.3:35455/yy/1455988450
-#EXTINF:-1  group-title="网络轮播", 恐怖电影
-http://192.168.31.3:35455/yy/24066336
+
 #EXTINF:-1  group-title="网络轮播", 港片喜剧
 http://192.168.31.3:35455/yy/1355112116
 #EXTINF:-1  group-title="网络轮播", 怀旧电影
 http://192.168.31.3:35455/douyu/12143022
-#EXTINF:-1  group-title="网络轮播", 周星驰
+#EXTINF:-1  group-title="网络轮播", 电影
 http://192.168.31.3:35455/yy/1354889048
 #EXTINF:-1  group-title="网络轮播", 周星驰2
 http://192.168.31.3:35455/yy/38670875
-#EXTINF:-1  group-title="网络轮播", 林正英经典
-http://192.168.31.3:35455/yy/1462895099
+
 #EXTINF:-1  group-title="网络轮播", 邵氏电影
 http://192.168.31.3:35455/douyu/4246519
 #EXTINF:-1  group-title="网络轮播", 功夫经典武侠
@@ -108,26 +103,14 @@ http://192.168.31.3:35455/yy/74613175
 #EXTINF:-1  group-title="网络轮播", 女团MV
 http://192.168.31.3:35455/douyu/11327316
 
-#EXTINF:-1  group-title="网络轮播", 武林外传
-http://192.168.31.3:35455/yy/1355652820
-#EXTINF:-1  group-title="网络轮播", 武林外传超清
-http://192.168.31.3:35455/yy/21092633
-#EXTINF:-1  group-title="网络轮播", 赵本山
-http://192.168.31.3:35455/yy/1382683959
+
 #EXTINF:-1  group-title="网络轮播", 纪晓岚
 http://192.168.31.3:35455/yy/1382781415
 
 
 #EXTINF:-1  group-title="网络轮播", 狄仁杰
 http://192.168.31.3:35455/yy/1353753252
-#EXTINF:-1  group-title="网络轮播", 包青天
-http://192.168.31.3:35455/yy/22701868
-#EXTINF:-1  group-title="网络轮播", 少年包青天蓝光版
-http://192.168.31.3:35455/yy/38498680
-#EXTINF:-1  group-title="网络轮播", 我和僵尸有个约会
-http://192.168.31.3:35455/yy/1354143966
-#EXTINF:-1  group-title="网络轮播", 康熙微服私访记
-http://192.168.31.3:35455/yy/1352811698
+
 
 # 体育频道
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="体育",上海五星体育
