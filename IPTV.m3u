@@ -96,6 +96,10 @@ http://192.168.31.3:35455/yy/1354889048
 http://192.168.31.3:35455/yy/38670875
 #EXTINF:-1  group-title="网络轮播", 超级电影
 http://115.132.201.25:8080/TVOD/1000000001000012884/ystenlive/index.m3u8
+#EXTINF:-1  group-title="网络轮播", 星卫电影
+http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1  group-title="网络轮播", 电影轮播1
+http://218.12.88.65/live/20415rnWbjg6Ex1K_2000.flv?302_type=cold_aggr&_session_id=4042540333.n.cn-mw1mqp.ewvz_13986&cac=1&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1a%2F20415rnWbjg6Ex1K_2000.flv%3FwsAuth%3D3b64dd17d293b133c58bda21e3147e5b%26token%3Dcpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay2&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-mw1mqp.ewvz.nss&redirect_from_ip=218.98.53.132&redirect_to=fr.cn-glzu4j&redirect_to_ip=218.12.88.65&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&vhost=tc-tct.douyucdn2.cn&wsAuth=3b64dd17d293b133c58bda21e3147e5b
 
 #EXTINF:-1  group-title="网络轮播", 邵氏电影
 http://192.168.31.3:35455/douyu/4246519
