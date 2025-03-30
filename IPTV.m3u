@@ -42,6 +42,11 @@ http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 # 综合
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="综合",动物自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1  group-title="综合", 周星驰
+http://1.94.31.214:35455/huya/11342412
+
+
 #EXTINF:-1  group-title="综合", 超级电影
 http://115.132.201.25:8080/TVOD/1000000001000012884/ystenlive/index.m3u8
 #EXTINF:-1  group-title="综合", 星卫电影
