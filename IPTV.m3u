@@ -1,57 +1,2190 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+# 收藏频道
 
-# 卫视频道
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="卫视",cctv1-高码
-http://112.46.85.60:8009/hls/501/index.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="卫视",cctv2-高码
-http://112.46.85.60:8009/hls/502/index.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="卫视",cctv3-高码
-http://112.46.85.60:8009/hls/3/index.m3u8
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="卫视",cctv4-高码
-http://112.46.85.60:8009/hls/4/index.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="卫视",cctv5-高码
-http://112.46.85.60:8009/hls/503/index.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="卫视",CCTV-5+
-http://222.219.183.103:8089/hls/19/index.m3u8
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="卫视",CCTV-6
-http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="卫视",cctv8-高码
-http://112.46.85.60:8009/hls/8/index.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="卫视",cctv10-高码
-http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="卫视",cctv13-高码
-http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="卫视",cctv14-高码
-http://36.105.100.208:35455/gaoma/cctv14.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="卫视",cctv15-高码
-http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
-
-
-#EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.v1.mk/logo/安徽经济生活.png" group-title="卫视",安徽经济生活
+#EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.v1.mk/logo/安徽经济生活.png" group-title="收藏",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.v1.mk/logo/安徽综艺体育.png" group-title="卫视",安徽综艺体育
+#EXTINF:-1,tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://epg.v1.mk/logo/安徽综艺体育.png" group-title="收藏",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="卫视",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="收藏",凤凰中文
 http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="卫视",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="收藏",凤凰资讯
 http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 
-
-
-
-# 综合
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="综合",动物自然
+#肥羊频道
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",cctv1-高码
+http://192.168.31.6:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv2.png",cctv2-高码
+http://192.168.31.6:35455/gaoma/cctv2.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv3.png",cctv3-高码
+http://192.168.31.6:35455/gaoma/cctv3.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv4.png",cctv4-高码
+http://192.168.31.6:35455/gaoma/cctv4.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv5.png",cctv5-高码
+http://192.168.31.6:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv5+.png",cctv5p-高码
+http://192.168.31.6:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CCTV7.png",cctv7-高码
+http://192.168.31.6:35455/gaoma/cctv7.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv8.png",cctv8-高码
+http://192.168.31.6:35455/gaoma/cctv8.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv9.png",cctv9-高码
+http://192.168.31.6:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv10.png",cctv10-高码
+http://192.168.31.6:35455/gaoma/cctv10.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv11.png",cctv11-高码
+http://192.168.31.6:35455/gaoma/cctv11.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv12.png",cctv12-高码
+http://192.168.31.6:35455/gaoma/cctv12.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv13.png",cctv13-高码
+http://192.168.31.6:35455/gaoma/cctv13.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv14.png",cctv14-高码
+http://192.168.31.6:35455/gaoma/cctv14.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv15.png",cctv15-高码
+http://192.168.31.6:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv16.png",cctv16-高码
+http://192.168.31.6:35455/gaoma/cctv16.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv16.png",cctv16-4K-HLG
+http://192.168.31.6:35455/gaoma/cctv4k16.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv17.png",cctv17-高码
+http://192.168.31.6:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png",cgtnar-高码
+http://192.168.31.6:35455/gaoma/cgtnar.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png",cgtndoc-高码
+http://192.168.31.6:35455/gaoma/cgtndoc.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CGTN.png",cgtnen-高码
+http://192.168.31.6:35455/gaoma/cgtnen.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png",cgtnfr-高码
+http://192.168.31.6:35455/gaoma/cgtnfr.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CGTN1.png",cgtnru-高码
+http://192.168.31.6:35455/gaoma/cgtnru.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/CGTN1.png",cgtnsp-高码
+http://192.168.31.6:35455/gaoma/cgtnsp.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv4k.png",cctv4k-HLG
+http://192.168.31.6:35455/gaoma/cctv4k.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/cctv8k.png",cctv8k_36m-HLG
+http://192.168.31.6:35455/gaoma/cctv8k_36m.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png",BTV-重温经典
+http://192.168.31.6:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png",萌宠TV
+http://192.168.31.6:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/淘BABY.png",淘BABY
+http://192.168.31.6:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/淘剧场.png",淘剧场
+http://192.168.31.6:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/淘电影.png",淘电影
+http://192.168.31.6:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png",淘娱乐
+http://192.168.31.6:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png",北京IPTV4K
+http://192.168.31.6:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png",北京体育休闲
+http://192.168.31.6:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/北京新闻.png",北京新闻
+http://192.168.31.6:35455/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png",咪咕4K-1
+http://192.168.31.6:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png",咪咕4K-2
+http://192.168.31.6:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕全民热练
+http://192.168.31.6:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-1
+http://192.168.31.6:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-2
+http://192.168.31.6:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-3
+http://192.168.31.6:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-4
+http://192.168.31.6:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-5
+http://192.168.31.6:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-6
+http://192.168.31.6:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-7
+http://192.168.31.6:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-8
+http://192.168.31.6:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-9
+http://192.168.31.6:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-10
+http://192.168.31.6:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-11
+http://192.168.31.6:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-12
+http://192.168.31.6:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-13
+http://192.168.31.6:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-14
+http://192.168.31.6:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-15
+http://192.168.31.6:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-16
+http://192.168.31.6:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-17
+http://192.168.31.6:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-18
+http://192.168.31.6:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-19
+http://192.168.31.6:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-20
+http://192.168.31.6:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-21
+http://192.168.31.6:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-22
+http://192.168.31.6:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-23
+http://192.168.31.6:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-24
+http://192.168.31.6:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-25
+http://192.168.31.6:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-26
+http://192.168.31.6:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-27
+http://192.168.31.6:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-28
+http://192.168.31.6:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-29
+http://192.168.31.6:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-30
+http://192.168.31.6:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-31
+http://192.168.31.6:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-32
+http://192.168.31.6:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-33
+http://192.168.31.6:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-34
+http://192.168.31.6:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-35
+http://192.168.31.6:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-36
+http://192.168.31.6:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-37
+http://192.168.31.6:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-38
+http://192.168.31.6:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-39
+http://192.168.31.6:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-40
+http://192.168.31.6:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-41
+http://192.168.31.6:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-42
+http://192.168.31.6:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-43
+http://192.168.31.6:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-44
+http://192.168.31.6:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕视频_8M1080_咪视通-45
+http://192.168.31.6:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145",悬疑放映厅
+http://192.168.31.6:35455/huya/26355797
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329",周星星
+http://192.168.31.6:35455/huya/11342412
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/b5/a5e4bee5264db5a808f2cdcabf39f7_180_135.jpg?1626160515",爱吃桃子的喵
+http://192.168.31.6:35455/huya/18501378
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392",武林萌主唐小姐
+http://192.168.31.6:35455/huya/11336726
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ef/9f6e7c7c7297abaa71a3a1fb2cc986_180_135.jpg?1741183913",江爽【好运来】
+http://192.168.31.6:35455/huya/23796393
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/91/12fc78c83deb7c3e65724759b1d91c_180_135.jpg?1637028274",微竞-琴琴nice
+http://192.168.31.6:35455/huya/913155
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/2b/96d70478bd4ac6f07b6e8a14701693_180_135.jpg?1675517151",乐佰-虫虫
+http://192.168.31.6:35455/huya/23025
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/31/44bf5c83e87490a74d7dc93900fc5c_180_135.jpg?1720077937",歪果仁Reaction
+http://192.168.31.6:35455/huya/29982644
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1078/fc/8bec6d0793db116484afbf1768e5e9_180_135.jpg?1723003562",回去拿马卡报
+http://192.168.31.6:35455/huya/30080238
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476",蛮多的功夫
+http://192.168.31.6:35455/huya/23740156
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/63/94321039835007d62f769ea2cac0fe_180_135.jpg?1722265852",小糯米丿
+http://192.168.31.6:35455/huya/128391
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717",鯎爺
+http://192.168.31.6:35455/huya/11352944
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/d3/d7ce9b844cd917aefc0051169a76b9_180_135.jpg?1739707229",微竞-乖乖
+http://192.168.31.6:35455/huya/29140342
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/0c/ecde8a9e4305ff922a7da06beac865_180_135.jpg?1633053767",视觉-秦VV
+http://192.168.31.6:35455/huya/396738
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg",小木子先生丶
+http://192.168.31.6:35455/huya/11342396
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2d/d2661ebff6e5569998074adef29b57_180_135.jpg?1712954764",婧婧丶
+http://192.168.31.6:35455/huya/618917
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/93/b6f3196df90c2c152429686fe580ce_180_135.jpg?1742218835",炒白果萝卜
+http://192.168.31.6:35455/huya/30440855
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ab/f4ad6585c33f91d18d78f85ae0c0e2_180_135.jpg?1740315944",星一芒
+http://192.168.31.6:35455/huya/30329635
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214",阿斗归来了
+http://192.168.31.6:35455/huya/13303478
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145",球哥解说
+http://192.168.31.6:35455/huya/29465875
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/15/6e54ee9788227c27827a342671e151_180_135.jpg?1737035419",得志未断绝
+http://192.168.31.6:35455/huya/30523326
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",小小爱吃湘菜
+http://192.168.31.6:35455/huya/30657049
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/a5/10ded51e3ad604d7c12bee7e4da8aa_180_135.jpg?1740643037",悠悠爱电影
+http://192.168.31.6:35455/huya/30611864
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1091/71/44c0329e4c99efcffae7a534eb6088_180_135.jpg?1736401383",不吃兔兔子
+http://192.168.31.6:35455/huya/30512441
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/f3/400e07369b09c0a67402442ba80d1d_180_135.jpg?1737947611",超级大幂幂
+http://192.168.31.6:35455/huya/30540279
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1098/bb/f7ad60d7fb5100278dd6e6ca730e41_180_135.jpg?1742577178",虎粮观影团
+http://192.168.31.6:35455/huya/30403502
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg",我是詹密
+http://192.168.31.6:35455/huya/11342439
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1056/9a/e34880b2a9c1002adc39a20c13b645_180_135.jpg?1742103716",西部观影团
+http://192.168.31.6:35455/huya/30652384
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/94/ee28851ef31e7e1575889c52afcd05_180_135.jpg?1737175660",超甜呦、
+http://192.168.31.6:35455/huya/30526458
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1056/1a/b3574f36cb1e0e95f9ebd758e2f34a_180_135.jpg?1737176886",仙女鹿、
+http://192.168.31.6:35455/huya/29835716
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/d1/946161ce4fd86f443b97732451ffaa_180_135.jpg?1713356776",猫幺儿
+http://192.168.31.6:35455/huya/26378858
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1080/29/688e85c4509728831c578c7517e0f7_180_135.jpg?1447838636",痞子帅叔叔
+http://192.168.31.6:35455/huya/11342433
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/9e/601c84c01c1450b09ac492368367bc_180_135.jpg?1742300543",虎桥路关羽
+http://192.168.31.6:35455/huya/30613314
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1098/b0/890aa81f3099b92de909ec864d109c_180_135.jpg?1742361287",SJ-七西【紫米】
+http://192.168.31.6:35455/huya/128365
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/30/82a6db0736d8c2e90f6614710d780c_180_135.jpg?1712552492",SJ-咔咔
+http://192.168.31.6:35455/huya/29773508
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/04/8112ee01b0e39d2d42131bd96e3ea6_180_135.jpg?1741159378",樱花布布
+http://192.168.31.6:35455/huya/30626082
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/67/ff6c22dd68c1de86affb5a3bbea8c6_180_135.jpg?1741997971",小璐影视
+http://192.168.31.6:35455/huya/30655127
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/81/530eafa19053255430c04180f56c28_180_135.jpg?1742881545",不染ctal
+http://192.168.31.6:35455/huya/30595074
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/24/d713c88119ab980d67f1242af3c366_180_135.jpg?1742213666",子宽放
+http://192.168.31.6:35455/huya/30362138
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1098/48/285066841d020cef9981f1289dc1eb_180_135.jpg?1740660197",不吃香菜丫丫
+http://192.168.31.6:35455/huya/30612264
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381",陈翔六点半
+http://192.168.31.6:35455/huya/11274154
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800",SJ-倾甜
+http://192.168.31.6:35455/huya/396729
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/9c/a18289e22eb3b750ed100475be1758_180_135.jpg?1743415979",偶lo
+http://192.168.31.6:35455/huya/30509122
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885",7喜先生
+http://192.168.31.6:35455/huya/11342421
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/8a/fbdb8d807a9eebf40a19a5346c32eb_180_135.jpg?1707390459",SJ-以宁
+http://192.168.31.6:35455/huya/29664242
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/ca/41aaa56257be3a3699d1fbc34816f9_180_135.jpg?1735643267",SJ-小美
+http://192.168.31.6:35455/huya/30363727
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",口口甜
+http://192.168.31.6:35455/huya/25701671
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1742975326",新橙記Orange丶
+http://192.168.31.6:35455/huya/30590779
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/81/47a4d354831652908c6ac1e9ff552e_180_135.jpg?1742210631",虎牙扛把仔
+http://192.168.31.6:35455/huya/29588938
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/19/8cf7b0bdde264c7d73d8798c60bd23_180_135.jpg?1742884936",婉晴ctde
+http://192.168.31.6:35455/huya/30595139
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/bb/66438dd30e3678450d5c11c1fa1bae_180_135.jpg?1737222396",小桃猪猪
+http://192.168.31.6:35455/huya/30527430
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/41/6bb0a55ac222adee2d0e80009f79be_180_135.jpg?1737176671",沫宝儿吖
+http://192.168.31.6:35455/huya/30526426
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1052/e5/c60285f2445730c6e17bad2eefe532_180_135.jpg",傻妞
+http://192.168.31.6:35455/huya/11342426
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/68/dc5766e27199b2af146fc9d74d03ba_180_135.jpg?1743138111",斗破-萧炎
+http://192.168.31.6:35455/huya/29863394
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/30/bbb5b644988f8b6d7da3d1cc20bf3b_180_135.jpg?1741757780",知性美丽小公主
+http://192.168.31.6:35455/huya/30653684
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/b9/8a5a4c1231b4bd7e6439af4d5daad6_180_135.jpg?1713515234",之而成冠毛
+http://192.168.31.6:35455/huya/26355802
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774",裸奔的蜗牛╮
+http://192.168.31.6:35455/huya/11342418
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/93/b16f9e9f520e28434bc6f1cbe829ef_180_135.jpg?1705548531",反方向的钟1874
+http://192.168.31.6:35455/huya/29465868
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/a6/9c42907120521ef635361a8443ba9b_180_135.jpg?1741757455",糖果小豆包
+http://192.168.31.6:35455/huya/30653660
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg",瞬间爆炸
+http://192.168.31.6:35455/huya/11352960
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/7b/8a73637a31a7eae0d3a8d5841243b0_180_135.jpg?1733722587",薇薇影视
+http://192.168.31.6:35455/huya/30438923
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/3a/0acfc1c3f07bba4e127eb43c0a1c1c_180_135.jpg?1730817211",虎牙话事人i
+http://192.168.31.6:35455/huya/27834853
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/d9/f76198544abd446bc812034fa9fc6f_180_135.jpg?1544172417",大侠
+http://192.168.31.6:35455/huya/11602085
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1076/f9/5983c0a76bf0ba75cd8d23535563f2_180_135.jpg?1651206749",梦梦影视
+http://192.168.31.6:35455/huya/25129377
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/86/9dff75f0f8265fad295f04eb4eea30_180_135.jpg",四大裁子之首
+http://192.168.31.6:35455/huya/11602058
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/e5/1939c7444bd2a964e76c2bf02be634_180_135.jpg?1736837245",斗破-萧薰儿
+http://192.168.31.6:35455/huya/29862625
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/dc/858818a088cf3d7ef46732fb435740_180_135.jpg?1741188820",偶看见常威在打来福
+http://192.168.31.6:35455/huya/30627334
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/14/108b2f09afcc12edb51ed1b3366a5a_180_135.jpg?1729650035",影评专员
+http://192.168.31.6:35455/huya/30311494
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1058/5b/ca6d64814e18f2b6d0d9aa00bf9ba8_180_135.jpg?1742271909",winccab
+http://192.168.31.6:35455/huya/30650192
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1035/e1/7baa7aec8cbc9136517f88d9ae0ce3_180_135.jpg?1735883336",西京观影
+http://192.168.31.6:35455/huya/30439645
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg",心疼得抱住胖胖的自己
+http://192.168.31.6:35455/huya/11342425
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/03/7531dc8a84bdf34feab7022ee9575b_180_135.jpg?1646811108",白菘无人省
+http://192.168.31.6:35455/huya/26355864
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/c6/f389b6b9e9cb819d8b638bd515b44a_180_135.jpg?1719547853",961丶清甜
+http://192.168.31.6:35455/huya/126714
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1054/1b/e658e859484cb9a062f05b1b542393_180_135.jpg?1542873828",四次元先生
+http://192.168.31.6:35455/huya/11602071
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001",鱼塘塘主张年年
+http://192.168.31.6:35455/huya/11342384
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1003/d3/7bbf32d9dacbcd6290c615cdb18514_180_135.jpg?1445854501",红茶妹妹
+http://192.168.31.6:35455/huya/11336592
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1028/14/7f0d89370a38ad314ed0f9d4b041ca_180_135.jpg?1453971479",老王夸我帅
+http://192.168.31.6:35455/huya/11352964
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897",非凡武林
+http://192.168.31.6:35455/huya/21674665
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686",No1常在心
+http://192.168.31.6:35455/huya/11342402
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636",大漠李白
+http://192.168.31.6:35455/huya/26355861
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",海绵宝宝宝
+http://192.168.31.6:35455/huya/11352919
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/53/e7fb6ff46f05422e81b5823159667f_180_135.jpg?1713701642",天行豆豉
+http://192.168.31.6:35455/huya/29877837
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",山东北路大喬
+http://192.168.31.6:35455/huya/26355860
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825",虎牙影院
+http://192.168.31.6:35455/huya/11601968
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946",野原的一家
+http://192.168.31.6:35455/huya/11352970
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1036/eb/17f80ff8f9851ee417b1fc688f6656_180_135.jpg?1494319827",全优少年
+http://192.168.31.6:35455/huya/11602081
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1055/55/feafba98c920aade78809d72136eb1_180_135.jpg?1448278125",--娇妹
+http://192.168.31.6:35455/huya/11342404
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/21/cf70c89d704f5ad1f7f45640117e18_180_135.jpg?1618468802",里昂保护的玛蒂达
+http://192.168.31.6:35455/huya/21059594
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265",一只大懒虫
+http://192.168.31.6:35455/huya/11279251
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1024/bb/b1a3c97c76cb4dc160dd5f2483d747_180_135.jpg",喜剧电影放映厅
+http://192.168.31.6:35455/huya/11602031
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1039/5e/5aac3908070130bbdcd7af4698d02c_180_135.jpg?1484792977",美少女咸儿
+http://192.168.31.6:35455/huya/11336572
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1067/2b/78dfb36d77377464856ed5d474bf73_180_135.jpg",超能力是放pi
+http://192.168.31.6:35455/huya/11352906
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1013/e1/63455f6cc24cdde3188a6d26335112_180_135.jpg?1465205440",浮生没有若梦
+http://192.168.31.6:35455/huya/11601986
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/e1/ef538b6ca9889c1edb52d70ce28732_180_135.jpg?1654141727",小麥
+http://192.168.31.6:35455/huya/10980725
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1015/95/4203778f46f46c7d79ef4129fd8161_180_135.jpg?1728692906",芮橙说剧
+http://192.168.31.6:35455/huya/30287258
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576",领带哥
+http://192.168.31.6:35455/huya/11342430
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg",昵称违规-QQFbPxwM1A
+http://192.168.31.6:35455/huya/11352958
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/1e/0bcedc77286612bd55f7ab4c26913f_180_135.jpg?1542876566",凌莲
+http://192.168.31.6:35455/huya/11602086
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1012/f5/b6e246fc050f005a7eb50db0ec37b5_180_135.jpg?1448361051",會唱歌的小野貓
+http://192.168.31.6:35455/huya/11352871
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967",扁豆看电影
+http://192.168.31.6:35455/huya/16028551
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/7c/ca158824fb83add51f431844c171ae_180_135.jpg?1643010635",宇宙摸魚人
+http://192.168.31.6:35455/huya/26355763
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/4a/659f5b93e2e645314b15a03662f870_180_135.jpg?1723003057",傍晚猴
+http://192.168.31.6:35455/huya/30080236
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/a0/6343ce60e55d598a4ad3bed6fa43fd_180_135.jpg?1560231135",个人向
+http://192.168.31.6:35455/huya/11352963
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/d6/6a8b9fdff91400bb33bb9530a16c39_180_135.jpg?1698692598",SJ-咩咩
+http://192.168.31.6:35455/huya/631394
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/51/1e5997bcc0cbaa5955931ff2f7df0d_180_135.jpg?1556507192",橘酱真甜
+http://192.168.31.6:35455/huya/11602055
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/4e/34317ec1baec7725eda8247bcd77d2_180_135.jpg?1711701543",YJ-无语凝烟
+http://192.168.31.6:35455/huya/26355856
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/b0/84e235f07264c2a98849e38d2a3a8d_180_135.jpg?1720689955",马呜呜
+http://192.168.31.6:35455/huya/29982631
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/63/61893d4ab1c814538fece254bdb9bb_180_135.jpg?1657822084",虎牙【蛋蛋侠】
+http://192.168.31.6:35455/huya/396734
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg",种瓜得弟弟
+http://192.168.31.6:35455/huya/11352872
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196",偷心大盗ヽ龍宝
+http://192.168.31.6:35455/huya/11342386
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/91/4938488a0652e8a409af537afa1b1c_180_135.jpg?1724122094",春水盈盈细浪翻
+http://192.168.31.6:35455/huya/30080255
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1057/b1/86411769a7594adda1e6c43572dffd_180_135.jpg",不发威当我Kitty
+http://192.168.31.6:35455/huya/11342403
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1077/d5/d1e8d7f7ebd552fc52db2d96b2cfa4_180_135.jpg?1450947333",我很忙
+http://192.168.31.6:35455/huya/11352950
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/eb/1513352638f38b58fc4eb15b839a78_180_135.jpg?1729651024",唯倜得同行
+http://192.168.31.6:35455/huya/30311525
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/eb/7e846060cdd5aa13b82e78688056ec_180_135.jpg?1606717954",梁非凡吔X啦
+http://192.168.31.6:35455/huya/23749083
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1021/38/798015db445aa31accd2fb80a80f10_180_135.jpg?1448967582",Wang-我的女人
+http://192.168.31.6:35455/huya/11352940
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841",虎牙八点档
+http://192.168.31.6:35455/huya/880261
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/77/3bf1bb9032d601d9857f47aa9505f6_180_135.jpg?1723717341",老问我东西南北
+http://192.168.31.6:35455/huya/30080244
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",而莫善者恶之
+http://192.168.31.6:35455/huya/26355775
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1046/93/15a62b95e49fcdd796bc68856ab04b_180_135.jpg?1450926151",尼古拉斯乔丹
+http://192.168.31.6:35455/huya/11352898
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/a1/4ebedbbafeaf5533d2910f59949acc_180_135.jpg?1704425911",订阅我就发财
+http://192.168.31.6:35455/huya/29465863
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1054/cc/fe8da49e5df793bdd59ed1be0d340b_180_135.jpg?0",小妖孽
+http://192.168.31.6:35455/huya/11602088
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1005/ae/e4c79d25571888f30bb8357272e293_180_135.jpg?1543373584",粉娘
+http://192.168.31.6:35455/huya/11601978
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ee/20efb83981c3bcfcf15cf755514bdf_180_135.jpg?1646813525",春江花朝吹香夢
+http://192.168.31.6:35455/huya/26355791
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4c/58791a804ba17e82f18fa95f2f99e9_180_135.jpg?1702967451",年年营
+http://192.168.31.6:35455/huya/29580970
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1039/15/8fa37019a60515490eaeab2ba329c8_180_135.jpg?1449121515",老司机
+http://192.168.31.6:35455/huya/11352946
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/5b/f41912bf284afbf19ff741b17fdebe_180_135.jpg?1646814225",斷桥斯氏杯
+http://192.168.31.6:35455/huya/26355786
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399",港剧日记
+http://192.168.31.6:35455/huya/23903130
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1046/84/502de036e633dd2294c61d4a8ea0c0_180_135.jpg?1741747702",中洲观影
+http://192.168.31.6:35455/huya/30506250
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1003/a2/8ec57e007b96c1cc5d5636899f44d7_180_135.jpg?1487838671",如意菜头
+http://192.168.31.6:35455/huya/11352966
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593",南西视频
+http://192.168.31.6:35455/huya/16913382
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1062/41/605e2cb27decc8fd6dbe2fc7779e49_180_135.jpg?1448346204",地狱ヽ妖妖
+http://192.168.31.6:35455/huya/11352869
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/eb/98cdb6c3cc433165914bd0649fc840_180_135.jpg?1457606900",时光小偷
+http://192.168.31.6:35455/huya/11352952
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1029/36/bbf85e68ecdee8714b3cf9466110ac_180_135.jpg?1449121205",HelloKitty
+http://192.168.31.6:35455/huya/11352879
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/25/04b947aca136d6636679742a986415_180_135.jpg?1715945645",小迷糊
+http://192.168.31.6:35455/huya/29580971
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1098/55/c527268490930bfbbac96902561621_180_135.jpg?1646813560",迎宾桥米莱迪
+http://192.168.31.6:35455/huya/26355790
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/a5/9e8740dff7ef25665d9e6550088994_180_135.jpg?1722422198",奇思妙想8
+http://192.168.31.6:35455/huya/30080192
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/52/a6c35becee8a340ace9a25f52de787_180_135.jpg?1723789191",水晶awa
+http://192.168.31.6:35455/huya/30080247
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/25/d7f1cac49929155f84ebd35fa8153d_180_135.jpg?1565864168",我要在你头上暴扣
+http://192.168.31.6:35455/huya/19524135
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754",粤语电影放映厅
+http://192.168.31.6:35455/huya/21059572
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/9d/c21c87d9b22568bcdf4636bbf5bcad_180_135.jpg?1618196189",Cc
+http://192.168.31.6:35455/huya/11601966
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588",止戈电影
+http://192.168.31.6:35455/huya/19863777
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/66/92eea73419e298b87afa54a59b6dc0_180_135.jpg?1614062840",战争电影放映厅
+http://192.168.31.6:35455/huya/21059618
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1009/41/62b9177d3e1bbf1c4e87eded2c216a_180_135.jpg?1448362100",Mr-傀儡
+http://192.168.31.6:35455/huya/11352936
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1050/54/567123456cfccfc6bb604ac3fdfbde_180_135.jpg?1494319470",热心市民高先生
+http://192.168.31.6:35455/huya/11602037
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422",核桃姐姐
+http://192.168.31.6:35455/huya/11342390
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1019/fa/69dd3b706ce51ea376b0ecbce2b00c_180_135.jpg",樹袋熊小九九
+http://192.168.31.6:35455/huya/11282233
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/0b/4a880dbd549aff19603c8689f33a5c_180_135.jpg?1730725406",战士吹沙埃
+http://192.168.31.6:35455/huya/30344039
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669",科幻梦工场
+http://192.168.31.6:35455/huya/15152155
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/a0/ae732951220448bf7c89d6f300b368_180_135.jpg?1694848301",一哥爱解说
+http://192.168.31.6:35455/huya/28806915
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1035/ad/280f7ff49791a495327039fb1a436e_180_135.jpg?1462501270",摄氏零度
+http://192.168.31.6:35455/huya/11602032
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1020/64/073b401ac8a9d2849ed127229f640c_180_135.jpg",兜兜з
+http://192.168.31.6:35455/huya/11352910
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/e3/41904b9204b5d7948559e4c86c20f5_180_135.jpg?1588910267",阿良说美剧
+http://192.168.31.6:35455/huya/20488841
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/ee/1a3987380a4acfa5a840fd8085f72f_180_135.jpg?1559035163",中二的骚年
+http://192.168.31.6:35455/huya/11602054
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/2e/63af68312cfe252c69328448baaf7f_180_135.jpg?1559260536",斌哥漫说
+http://192.168.31.6:35455/huya/18632116
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444",狗哥吃火锅
+http://192.168.31.6:35455/huya/17269326
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/e7/1ed8ce4ed36fd1d8550abbc5badfb2_180_135.jpg?1714037639",老来事業斷橋邊
+http://192.168.31.6:35455/huya/26355853
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1036/66/5f360cfbcd1bbe1c2eca6702ba3f8d_180_135.jpg?1447425483",逗比宝宝
+http://192.168.31.6:35455/huya/11342427
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1010/e0/4c8f2401f7859e8e1837e9b9fdcdd0_180_135.jpg?1711595422",落于巧克力
+http://192.168.31.6:35455/huya/29465879
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/09/6997256f20cf32f3065f9ceba39430_180_135.jpg?1721815800",击剑永不息
+http://192.168.31.6:35455/huya/30080154
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/4d/9997877fae74891282fab8e56be4ee_180_135.jpg?1711938855",舍前棕
+http://192.168.31.6:35455/huya/26355844
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/5b6e5161762e150933616d9be72320_180_135.jpg?1602591499",一只梦幻小萌虎
+http://192.168.31.6:35455/huya/21059556
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1014/5b/19062bb3f25081b186a66f51df4ecf_180_135.jpg?1445851158",Yummy
+http://192.168.31.6:35455/huya/11336587
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/fd/9d92238a6d4d7e7dda180a7e57ad3f_180_135.jpg?1705565802",千绪小绘
+http://192.168.31.6:35455/huya/29465867
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f8/98934e92305cbad481929fe006673f_180_135.jpg?1542705352",音乐小石榴
+http://192.168.31.6:35455/huya/17091681
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041",亮哥讲电影
+http://192.168.31.6:35455/huya/16144175
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",武侠电影放映厅
+http://192.168.31.6:35455/huya/29982611
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1078/91/3367ea0a80ea301b63d92a7692d51b_180_135.jpg?1670154859",泛爱心说剧
+http://192.168.31.6:35455/huya/14734068
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/e6/c8a8f73cd3e9ce2365b531c5cc4a2d_180_135.jpg?1620009251",缔爵丶小阿杜
+http://192.168.31.6:35455/huya/16755322
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1076/01/1368cdc784736baf096892fcd5b12d_180_135.jpg?1450260313",鄉8佬
+http://192.168.31.6:35455/huya/11352920
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/4b/3de699d092d0c87297d1043201e83e_180_135.jpg?1602591630",芦苇微微的弟子
+http://192.168.31.6:35455/huya/21059558
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1048/7c/91edc505bc2b8068ae1f0ba822d7a9_180_135.jpg?1464061479",-懒猪
+http://192.168.31.6:35455/huya/11342393
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/0c/b53333444abba604faa2df4d77375b_180_135.jpg?1555566240",李小哇絮叨叨
+http://192.168.31.6:35455/huya/18441722
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/43/535541af80dc72cc3c312e2c5f9af3_180_135.jpg?1716803461",尽是与君别
+http://192.168.31.6:35455/huya/26355824
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1053/da/61cc96019de66b9bbbcc888f279941_180_135.jpg?1462501097",我爱黑科技
+http://192.168.31.6:35455/huya/11602068
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/9a/4bbcd7d8408eae53ab34e1e7180307_180_135.jpg?1722422124",繁花似锦小丽人
+http://192.168.31.6:35455/huya/30080189
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1001/f7/f619d82184aaee854f1bd8912d7927_180_135.jpg?1542942334",鸽宝小改改
+http://192.168.31.6:35455/huya/11601970
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1068/80/6cf84f5d3eab043e34156080ac55b2_180_135.jpg?1445851450",蓶1淳爷
+http://192.168.31.6:35455/huya/11336719
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/64/716a40f66ba8ee93994fc1d74df5ad_180_135.jpg?1722326521",小雅陪你看
+http://192.168.31.6:35455/huya/30080225
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1022/89/11cce4da27cfacf33a8476d8972283_180_135.jpg",安逗和黑仔
+http://192.168.31.6:35455/huya/11342424
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459",港剧日常
+http://192.168.31.6:35455/huya/23903123
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/50/e2d8c36ce93650aa5590dff53c7726_180_135.jpg?1717726409",陌哨面
+http://192.168.31.6:35455/huya/26355852
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/cf/642bd2219d704c644d3afb2db1d553_180_135.jpg?1694689027",荒野求生影探
+http://192.168.31.6:35455/huya/28556708
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/f9/7df656f34e52818369ae297bd17713_180_135.jpg?1659689962",辟哥影视
+http://192.168.31.6:35455/huya/27653235
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1014/c1/c0a9afcfae463fcddd62d18af0710c_180_135.jpg?1463660134",实力拔萝卜
+http://192.168.31.6:35455/huya/11601960
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1066/d0/fda0a975304c931c5cfe5ad53c71c0_180_135.jpg?1631599717",DD-解说
+http://192.168.31.6:35455/huya/25650806
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1049/f7/5aab1e5c04b4d47c603c64c279ab4f_180_135.jpg",小猪猪
+http://192.168.31.6:35455/huya/11342416
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1083/32/304976fa3bbaae8c9eef96dd12be84_180_135.jpg",呆萌小岳岳
+http://192.168.31.6:35455/huya/11342398
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",谁言横玉笛
+http://192.168.31.6:35455/huya/29982692
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",julie
+http://192.168.31.6:35455/huya/20969142
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/f7/bc9b72fbdfbe155c8810ed60ac9344_180_135.jpg?1620733428",S哥影视
+http://192.168.31.6:35455/huya/24720260
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",果子山薩科
+http://192.168.31.6:35455/huya/26355823
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/36/b1ea957453055943c430ffd9715a7e_180_135.jpg?1727498043",影小渔
+http://192.168.31.6:35455/huya/30296971
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/f4/955b247b91a47c27c5bc3726af26f2_180_135.jpg?1533208010",哀是麦子的球迷
+http://192.168.31.6:35455/huya/16162176
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1094/31/e49b2a9c29c0eecaeb044d422e01da_180_135.jpg?1715745505",此人皆怪怒
+http://192.168.31.6:35455/huya/26355779
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/82/0058ea0f1eb623bb42c768ca79e54f_180_135.jpg?1625644474",小金很大
+http://192.168.31.6:35455/huya/30307351
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/91/3183823e9288c12c04f3d81f24d926_180_135.jpg?1605592365",彪哥的日常
+http://192.168.31.6:35455/huya/23650804
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1057/46/63d69566121803c46709b29246b14f_180_135.jpg?1450856858",加班狗
+http://192.168.31.6:35455/huya/11352891
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/75/2bfcb77c65e69aba549bcf0435d7c1_180_135.jpg?1712732555",毁你男神做你男人
+http://192.168.31.6:35455/huya/353798
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/ff/59f1ae401bf269971d2f5584f31cf9_180_135.jpg?1713426907",昵称违规-UJvLCU73jW
+http://192.168.31.6:35455/huya/26355828
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1010/6a/6dda2c3b0bef2346fb706744661210_180_135.jpg?1668057180",君子杉
+http://192.168.31.6:35455/huya/15321830
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/d9/89449d9d32dbec6db90c74a3f300b3_180_135.jpg?1659707293",7块说故事
+http://192.168.31.6:35455/huya/27661804
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1074/99/188c24feaf3832b3bf4aa90e2baa94_180_135.jpg",無尾魚°
+http://192.168.31.6:35455/huya/11601961
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1023/a5/6a32717522a4521d758c7b16842840_180_135.jpg?1715915943",庄升秋
+http://192.168.31.6:35455/huya/29581262
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",情思说剧
+http://192.168.31.6:35455/huya/29870731
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/95/3a1d7e6548cc07923f4f91829c9498_180_135.jpg?1559014237",母胎solo200年
+http://192.168.31.6:35455/huya/30041512
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ed/23555c0b2a39778e285e2e3ad1c452_180_135.jpg?1712737444",难与鸣琴弹
+http://192.168.31.6:35455/huya/21059612
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/c9/9d4901c202345f02624a0bf197f4c5_180_135.jpg?1646547610",糊了的胡萝卜
+http://192.168.31.6:35455/huya/25725150
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/fb/aa88f30374e3e4d7c824037bfee8b5_180_135.jpg?1611147722",荒爷求生007
+http://192.168.31.6:35455/huya/29468771
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/5b/d22e41cc72b13ec1050501ecad815b_180_135.jpg?1712905686",辛苦烧餅
+http://192.168.31.6:35455/huya/26355848
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/e5/cc68debd11090522603f438e04d4ce_180_135.jpg?1697438550",楚门聊电影
+http://192.168.31.6:35455/huya/16507906
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/88/9d8223e8aa5b3a10f6d726456dac5a_180_135.jpg?1704876148",朝服金子
+http://192.168.31.6:35455/huya/29465865
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/c2/08d676210bd05ceae6043d1bdc19be_180_135.jpg?1462448288",科技这样玩
+http://192.168.31.6:35455/huya/11602033
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/a0/93b0c606e6c811ada36ad4dc70e50b_180_135.jpg?1646811012",惡紫之奪氈酒
+http://192.168.31.6:35455/huya/26355866
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",诡计腰柳中空
+http://192.168.31.6:35455/huya/30307341
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/77/c21c8d4dce282808d005286375cbd8_180_135.jpg?1742879129",豆腐芭比
+http://192.168.31.6:35455/huya/30683553
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/00/573c75890d96e0a162224a20016b88_180_135.jpg?1729482150",五哥观影团
+http://192.168.31.6:35455/huya/30307366
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/9c/8ae635709642edde287e0a23d506c5_180_135.jpg?1621962989",野行者
+http://192.168.31.6:35455/huya/20072663
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/93/b5fcd70e2bae4222c111a370952296_180_135.jpg?1619149386",硬汉影探
+http://192.168.31.6:35455/huya/24614407
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/48/2850892eb7cb94b8fcb1e049cefd0c_180_135.jpg?1612427932",十八里铺大当家
+http://192.168.31.6:35455/huya/21059562
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/9c/0e74be1209e616b763007026fb84d3_180_135.jpg?1712904882",奇幻电影放映厅
+http://192.168.31.6:35455/huya/26355847
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/10/1cdc057690ef4664429bdc65908f1a_180_135.jpg?1733915448",小丰爱追剧
+http://192.168.31.6:35455/huya/30439802
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/8d/cc05082f5fb4785d4b4489a7206be3_180_135.jpg?1721898506",微凉不小行
+http://192.168.31.6:35455/huya/30080215
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/ddd1fc1b67a9a7ef7f757c37493588_180_135.jpg?1633943282",大鱼爱路飞
+http://192.168.31.6:35455/huya/25818873
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/e0/616179d93ecd7d0b061384491a0b25_180_135.jpg?1646811066",猛志百般红
+http://192.168.31.6:35455/huya/26355865
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1098/5b/401b693bfad319a15519690c508375_180_135.jpg?1446036147",薛教授
+http://192.168.31.6:35455/huya/11342385
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/1f/6081dd7d6587c51625303be294164f_180_135.jpg?1542942651",小怪兽、
+http://192.168.31.6:35455/huya/11602044
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1066/9f/967be5788108c89d14c610e5712202_180_135.jpg?1713798665",罗克火
+http://192.168.31.6:35455/huya/21664544
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1088/04/bbe941b1469ad84984899925d78338_180_135.jpg?1713413373",道长我们私奔吧
+http://192.168.31.6:35455/huya/26355834
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/d2/27d4b681b266b4cc6c73dbaddce23d_180_135.jpg?1711957871",新奇好玩喵
+http://192.168.31.6:35455/huya/21059610
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1078/b1/2f13ab842010ed437e5dc4422f0982_180_135.jpg?1705565239",一川星悬-
+http://192.168.31.6:35455/huya/29465870
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1095/c2/105eb1f7e5c0e8926b19149cd334b9_180_135.jpg",微微爱宝宝
+http://192.168.31.6:35455/huya/11342422
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1009/59/7da5556311d997e6eda05c345dcd65_180_135.jpg",小亮亮
+http://192.168.31.6:35455/huya/11342432
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/0c/26e53f84e284e22cf9082c4c28131b_180_135.jpg?1598951846",越哥说电影
+http://192.168.31.6:35455/huya/15894162
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/83/a0f6069a046b08ea3a1b0e42a7ba8d_180_135.jpg?1719545615",自缘身在苔衣上
+http://192.168.31.6:35455/huya/26355822
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1022/db/535e679fd698b699ef67a508afabc7_180_135.jpg?1446036068",战斗联盟
+http://192.168.31.6:35455/huya/11342413
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/af/81aa0a056d91436536e179e96b51eb_180_135.jpg?1721898032",滴水恋
+http://192.168.31.6:35455/huya/30080218
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/16/91a65d6cab3648275c02a9044dc96a_180_135.jpg?1583819485",我是郭杰瑞
+http://192.168.31.6:35455/huya/21478190
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/d0/50ebf358fb4b19b7507b652f85f905_180_135.jpg?1621071408",吾聊电影
+http://192.168.31.6:35455/huya/16424416
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/0b/da433697a0d23af259deca325c1e4d_180_135.jpg?1645769159",杰克动漫
+http://192.168.31.6:35455/huya/19757963
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1035/33/9dd3bdc0381a4d9e4cd46e2a58ccd4_180_135.jpg?1602590871",王纪超人
+http://192.168.31.6:35455/huya/21059551
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/4f/0bf7acdf09a8c5a031c50576317d48_180_135.jpg?1728129359",是昊
+http://192.168.31.6:35455/huya/25256832
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1027/85/0e23f22c9cc69dfafcfe3e16076586_180_135.jpg?1450856839",Edinburgh南空
+http://192.168.31.6:35455/huya/11352890
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1039/f2/8c5e32bfcd2e678d9511ae21ebc6b1_180_135.jpg?1453112835",斯国一
+http://192.168.31.6:35455/huya/11352905
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1090/29/b2a1ae3f536f70847a4479e32db6eb_180_135.jpg?1445854580",北岛的诗
+http://192.168.31.6:35455/huya/11336591
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/b5/dfb063865949424c7ec1a4930d1d47_180_135.jpg?1717144715",我很怪丶但我不坏
+http://192.168.31.6:35455/huya/21059634
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg",开船老湿基
+http://192.168.31.6:35455/huya/11342387
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/c0/4b165266e473f83c9dfe69772ecd7b_180_135.jpg?1646814397",年月犬
+http://192.168.31.6:35455/huya/26355784
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638",冒险电影放映厅
+http://192.168.31.6:35455/huya/21059566
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/83/104c6e693c2110b0bf0893bf021c1b_180_135.jpg?1715677996",老实的小虎牙
+http://192.168.31.6:35455/huya/21059609
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/17/2e3500e02e14ccd14fada13ac9193b_180_135.jpg?1722327091",无花果不结果
+http://192.168.31.6:35455/huya/30080228
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/d7/0af865942405d27d378dec6e15ea09_180_135.jpg?1612508727",多面体想娶冰柠檬
+http://192.168.31.6:35455/huya/21059575
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/a1/6ed0639048c730a7cbfca75ac0caee_180_135.jpg?1606718755",我是靓宝
+http://192.168.31.6:35455/huya/23728660
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/9f/26d84a36bef38da4ed29557babdd35_180_135.jpg?1732984142",都市陈大胖、
+http://192.168.31.6:35455/huya/29941782
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1071/24/4901b73089f3c0362c90cd11e8e96b_180_135.jpg?1445838176",持枪者-土豆哥
+http://192.168.31.6:35455/huya/11336578
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/03/a2bfdaef06c18aed64cf42173c2449_180_135.jpg?1572151770",迷途尛麓
+http://192.168.31.6:35455/huya/27102852
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg",动画电影放映厅
+http://192.168.31.6:35455/huya/11352878
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1005/8d/ffe7d71b10f5cbfc835b8e90ee32fb_180_135.jpg?1449121749",第十门
+http://192.168.31.6:35455/huya/11352883
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1025/de/eae059a5ee332ee62ebe1dbd90e9c0_180_135.jpg?1459218859",-若凌Provence-
+http://192.168.31.6:35455/huya/11352955
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1050/f0/d2bea97c07b5f664c9b344e648db6d_180_135.jpg",杀马特死神
+http://192.168.31.6:35455/huya/11352875
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/94/d5a68ebfead345512f78da4748d8d0_180_135.jpg?1582818571",大象放映室
+http://192.168.31.6:35455/huya/21277391
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1017/7a/696816a48750a1b1febc265c1c6515_180_135.jpg?1712738032",如来解说
+http://192.168.31.6:35455/huya/29856678
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/77/83e474b7c44fbb7ac8315ded8285c2_180_135.jpg?1646814620",看似斐濟
+http://192.168.31.6:35455/huya/26355780
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1d/28f60c094ecdd69e369ec66ccefbde_180_135.jpg?1612247274",动作片天花板
+http://192.168.31.6:35455/huya/23865152
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1077/3d/c3e894c52edd9d1dedb6dd2b6c8407_180_135.jpg",胖次过肩摔
+http://192.168.31.6:35455/huya/11352903
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1008/72/745e4d1a0d86921a49f052b1f6fb62_180_135.jpg?0",大懒猫
+http://192.168.31.6:35455/huya/11602046
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/0e/de2174e2d15fdd68cf08a7d2a0ab02_180_135.jpg?1712911304",嶺外奇服兮
+http://192.168.31.6:35455/huya/26355850
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/28/b72eb8b003d7257e9933511426e7ed_180_135.jpg?1621334615",荒野求生影视
+http://192.168.31.6:35455/huya/24766781
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/5e/6f611ef062e410f78e8799e75cb60f_180_135.jpg?1612508471",还我瓢瓢拳
+http://192.168.31.6:35455/huya/21059578
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/29/0c2eaf5f001aea61d85644c44fa84c_180_135.jpg?1741615191",大神影视
+http://192.168.31.6:35455/huya/30297011
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f3/5da050899ac0ea8ba7228a7ce3967c_180_135.jpg?1724120925",一米八砍竹竿
+http://192.168.31.6:35455/huya/30080252
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",重庆火锅青岚黄麻鸡
+http://192.168.31.6:35455/huya/30342855
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/27/aebe514d430be85a0c9f17744ba779_180_135.jpg?1721374541",布谷bugu
+http://192.168.31.6:35455/huya/29982671
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235",飙车的老司机
+http://192.168.31.6:35455/huya/11352894
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/27/ac201b24698be88fc466d61b537178_180_135.jpg?1700016951",狗哥探案
+http://192.168.31.6:35455/huya/29484323
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1071/70/90dcf84517b4239b242e109d6fa28c_180_135.jpg?0",荒野达人
+http://192.168.31.6:35455/huya/11352975
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1085/3c/d850905ce519759fdd06a417bd8200_180_135.jpg",槽老师
+http://192.168.31.6:35455/huya/11336571
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1056/ee/82ecc29e46ab1ec2543ace4841a0bf_180_135.jpg?1445837301",昔日女神柳清茶-
+http://192.168.31.6:35455/huya/11279247
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",主播小贞
+http://192.168.31.6:35455/huya/11352935
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1032/d4/f3e08e1807df59a5113cd0249ea0b2_180_135.jpg?1516782487",Big笑工坊
+http://192.168.31.6:35455/huya/14776702
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/8a/8f6d55d382f09e1050aa165cfa7efe_180_135.jpg?1724122793",科幻是我的神
+http://192.168.31.6:35455/huya/30080257
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1021/a9/9d5e1e396c33bd48756d8d82b7cb4b_180_135.jpg?1447731986",简小熙
+http://192.168.31.6:35455/huya/11342399
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/88/fa6c98b87181724117dd9f63c13344_180_135.jpg?1652412601",老P仔动漫
+http://192.168.31.6:35455/huya/26510802
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1062/69/6cb628f7784cdc3baccbe0a14d8b51_180_135.jpg",二次元控
+http://192.168.31.6:35455/huya/11352912
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/a6/4c2420c6b530ed792f5ffcc7970735_180_135.jpg?1558062636",电影狂人A
+http://192.168.31.6:35455/huya/18715610
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/6c/917a231e72a5cdd2636ecee35e5bc5_180_135.jpg?1612426720",喝一碗杏仁茶
+http://192.168.31.6:35455/huya/21059565
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1002/7f/1e816e881a7ca2bd145888541dcf28_180_135.jpg?1463659657",性感大妈
+http://192.168.31.6:35455/huya/11602075
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1062/d0/8c6b20e47305870fece341bc5de289_180_135.jpg?1723003136",十五块五吴清鸥
+http://192.168.31.6:35455/huya/30080237
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1061/62/52475eab0e31b9da9be763f31cf93a_180_135.jpg?1447732170",包蛋超人
+http://192.168.31.6:35455/huya/11342400
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/372ec30602769d544215527d843fc5_180_135.jpg?1618805461",阿汤哥的影迷
+http://192.168.31.6:35455/huya/21059585
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/5e/99d75556e1474580a4cabb92a47ad4_180_135.jpg?1729851129",泉上老见示
+http://192.168.31.6:35455/huya/29982664
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1088/a3/e665467ff0d6b507d49c578f79ca9b_180_135.jpg?1721984654",体坛精彩速递
+http://192.168.31.6:35455/huya/30080196
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1091/2d/7bb2f158c9d3f0896f6ed313afc638_180_135.jpg?1456304717",笙歌
+http://192.168.31.6:35455/huya/11352965
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/7a/f4080eea094fe674044eb72a6214b8_180_135.jpg?1551411851",乔我说游戏频道
+http://192.168.31.6:35455/huya/17943364
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",定海路老夫子
+http://192.168.31.6:35455/huya/26355770
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/de/95237bed6ea80377572221408f900a_180_135.jpg?1713860620",横而为己任
+http://192.168.31.6:35455/huya/26355837
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1032/ec/67260a4154e056eeff0934114422a7_180_135.jpg",牙缝多了根青菜
+http://192.168.31.6:35455/huya/11352877
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/bd/e16d07a0b000d352c2966c7fc32bd8_180_135.jpg?1612508823",大铁锅炖大大鹅
+http://192.168.31.6:35455/huya/21059574
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/a2/f1086211b43eec48e4ef6a6f6b0145_180_135.jpg?1741261724",狼肉-恐怖游戏
+http://192.168.31.6:35455/huya/27949294
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/f7/f4c19686b04468c103cbb07d211585_180_135.jpg?1723004396",落露小鸟
+http://192.168.31.6:35455/huya/30080241
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1033/c7/deaedc677ecfb34f095c8ac7ab6f25_180_135.jpg",Fight、Girl
+http://192.168.31.6:35455/huya/11352895
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/f0/c11edcd69348c39482354e379f3aba_180_135.jpg?1609139259",香港喜剧大全
+http://192.168.31.6:35455/huya/23865080
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/41/8979ca6bfe50c6e47c66e7fe4a1439_180_135.jpg?1715404532",综艺不打马
+http://192.168.31.6:35455/huya/29918268
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/df/61e2623fd07d4fd06b7aaeae7fab97_180_135.jpg?1721374764",大可加冰不加可
+http://192.168.31.6:35455/huya/29982672
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/68/53a742ead16e54311a90639a76eba1_180_135.jpg?1629992558",良少聊漫威
+http://192.168.31.6:35455/huya/25523725
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/69/3b1afbeb8557db72375f681287281d_180_135.jpg?1713845275",永艳金铭
+http://192.168.31.6:35455/huya/26355839
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1002/a6/237eada1d7dd61c10186b4ecfefa02_180_135.jpg",汽车人
+http://192.168.31.6:35455/huya/11352897
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/ae/837f7a76e436c6c3376367e1b93a32_180_135.jpg?1729078614",古枫影视
+http://192.168.31.6:35455/huya/30297201
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1046/19/3ee0ad4c36da5626f9c61387b2608c_180_135.jpg?1445851228",嘤嘤嘤
+http://192.168.31.6:35455/huya/11336579
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1024/42/a76285b1991c82d9aeca97ca7b7601_180_135.jpg?1447413081",扫地僧
+http://192.168.31.6:35455/huya/11342394
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/144144/92/65/77/0007776592/T1hJDvBQLr1RCvBVdK.png",小阿掌
+http://192.168.31.6:35455/huya/28182904
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/bd/b89fac823732c0d81529a4252c6c3e_180_135.jpg?1602591558",绿帽闪电侠
+http://192.168.31.6:35455/huya/21059557
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1055/11/1f43f57787ee080f431643233542c2_180_135.jpg",可爱的小强
+http://192.168.31.6:35455/huya/11342435
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/49/c46ae83ac358fceaee5c9d77829194_180_135.jpg?1703486280",可乐电影o
+http://192.168.31.6:35455/huya/29598686
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1020/4a/86d682413ad4dcced57936c5358cd0_180_135.jpg?1447731638",陌离-小欣
+http://192.168.31.6:35455/huya/11342397
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/67/d5acb22df6653e4301b5e8a3834e7f_180_135.jpg?1716892640",日落丶星屑
+http://192.168.31.6:35455/huya/21059615
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1022/f3/5294e644b4ef58b742914f717b1f87_180_135.jpg?1463968479",向阳花
+http://192.168.31.6:35455/huya/11602069
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1017/fc/511216a2982774bffb462250a8a03c_180_135.jpg?1453969747",主播辣眼睛
+http://192.168.31.6:35455/huya/11352915
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1046/de/ce6a23f8d81f7fc7b1403b5eeb0f9e_180_135.jpg?1612508581",梁非凡吃点啥
+http://192.168.31.6:35455/huya/21059577
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/ca/54568a4f93540aca8644aa8038b0e4_180_135.jpg?1719545322",耳里如闻疑忠良
+http://192.168.31.6:35455/huya/26355858
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148",经典剧好看
+http://192.168.31.6:35455/huya/23490183
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1089/81/92cc5bf8aecc78b87a17e60f881af8_180_135.jpg?1456986139",一片青青草原
+http://192.168.31.6:35455/huya/11352973
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1055/6b/5994bafeb23e8caa8bc60248b9a37e_180_135.jpg",小牡蛎
+http://192.168.31.6:35455/huya/11352962
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1032/14/1da44a75370718605270e565584a5b_180_135.jpg?1446441363",暴走君丶阿罪
+http://192.168.31.6:35455/huya/11342423
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/e6/77bde633dbe23d74a5e303d8af9589_180_135.jpg?1710923318",王亦天之高也
+http://192.168.31.6:35455/huya/29465874
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/f6/3834f31b6635718db280741f924e93_180_135.jpg?1634886995",我的心好疼
+http://192.168.31.6:35455/huya/11601955
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1054/c1/b84c62ddbad10c09c7761f05751f7c_180_135.jpg?1721374849",内有恶龙
+http://192.168.31.6:35455/huya/29982674
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/d6/5707d35e9871fead5e7364d2b2e222_180_135.jpg?1721815630",李径看奥运
+http://192.168.31.6:35455/huya/30080153
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/86/0ca5441a80ff7731c2afe73b8b6f76_180_135.jpg?1612424267",包租婆不停水
+http://192.168.31.6:35455/huya/21059568
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1079/1d/ca62f0140cef86cdec55afafe64411_180_135.jpg",学妹爱学长
+http://192.168.31.6:35455/huya/11352886
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/c1/52e00a9af86d06d2a2a467f551ab6d_180_135.jpg?1649439695",大聪明和魏乐乐影院
+http://192.168.31.6:35455/huya/23304691
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/d3/87e32b1bd9a1210c8671e55294dc5c_180_135.jpg?1721978212",我是翩翩少年郎
+http://192.168.31.6:35455/huya/30080221
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/02/e80dcd0b104f1daf60dd1b69a84e7a_180_135.jpg?1615809358",九洲丶七哥
+http://192.168.31.6:35455/huya/19275841
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/32/1a4e9cab76da22d68063aebb7880ce_180_135.jpg?1717726587",渔洞墨
+http://192.168.31.6:35455/huya/26355767
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/68/90375584bf81b204c2fca75faf7a5e_180_135.jpg?1612508122",喜来乐狮子头
+http://192.168.31.6:35455/huya/21059580
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/65/f7bf973a349256329808c038c66c71_180_135.jpg?1624606761",原始生活21天
+http://192.168.31.6:35455/huya/17610289
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1017/07/537196710105cd97eb36990c6da854_180_135.jpg?1717726056",不能全鱼
+http://192.168.31.6:35455/huya/26355771
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1091/11/9644b830f7e59751ce00ba40c99502_180_135.jpg?1717144157",野味小生共江湖同醉
+http://192.168.31.6:35455/huya/21059631
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/9f/7e383d330b1caa97126ae2f3eca77d_180_135.jpg?1716263709",螺丝也可爱
+http://192.168.31.6:35455/huya/21059604
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",莫西西西西
+http://192.168.31.6:35455/huya/30312372
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1059/89/54f8f985e5fce58ab7253c340ff19b_180_135.jpg?1498529740",yoo
+http://192.168.31.6:35455/huya/11352876
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/07/74de55853f74ebd361d828f11dfa57_180_135.jpg?1686297602",夏日么么茶
+http://192.168.31.6:35455/huya/17455040
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1009/5f/21461e7a28f5637f73e0b194947509_180_135.jpg?1625716550",喜仔的世界
+http://192.168.31.6:35455/huya/17098448
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/92/402a0ef17879e21be1dcb4d501ca78_180_135.jpg?1737170402",荒野大世界
+http://192.168.31.6:35455/huya/30298239
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/88/30b87b0089d3fb73c3040ff5ea6a19_180_135.jpg?1618468236",超人的归来
+http://192.168.31.6:35455/huya/21059588
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/b6/6a3b306ce5e18d2be90f045bff116a_180_135.jpg?1723002967",宠物电竞领主
+http://192.168.31.6:35455/huya/30080235
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1074/e8/75a323e6cc8a82af3b525262732894_180_135.jpg?1559014348",母胎solo二百年
+http://192.168.31.6:35455/huya/11601982
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/7e/b21d099769d368dcdcdff9609fe4fa_180_135.jpg?1723789691",贷款小说家
+http://192.168.31.6:35455/huya/30080249
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/78/ef4af239efd6156ec361624653220a_180_135.jpg?1706179076",身外桂鱼
+http://192.168.31.6:35455/huya/29465869
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/ce/388cee795d15ad03d4db6616496726_180_135.jpg?1573465841",茶啊二中
+http://192.168.31.6:35455/huya/11213191
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1017/34/a697d039bfda3b6595e0855968dc1f_180_135.jpg?1450925863",Fighter
+http://192.168.31.6:35455/huya/11352949
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1021/de/812359957326ebf2d00930a372ce18_180_135.jpg?1655345807",一日壹片v
+http://192.168.31.6:35455/huya/27322701
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1075/63/8bfa72f935a017b36126e801102f65_180_135.jpg?1477021309",阿飞
+http://192.168.31.6:35455/huya/11352934
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/0e/45aa4a6fcfa334618f84fb3f349ab2_180_135.jpg?1726658783",惊奇小剧场
+http://192.168.31.6:35455/huya/30373013
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1042/8a/2da4ab2ee277d62423abf995594647_180_135.jpg?1489542636",迷失
+http://192.168.31.6:35455/huya/11602041
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/b4/9a7ccc3217f2c471d1ffa10d917fb5_180_135.jpg?1722326369",高雅小鲸
+http://192.168.31.6:35455/huya/30080223
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1083/0f/28a2bfc221f7fefbcea59437a356cc_180_135.jpg",斯诺克从小爱戳球
+http://192.168.31.6:35455/huya/11352893
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1063/c0/7b297027b78826bc421f7829439d39_180_135.jpg?1618468547",教父三部曲的影迷
+http://192.168.31.6:35455/huya/21059589
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/09/788e3c1aaa2ad1fdd08f164daacc67_180_135.jpg?1722566411",阿杰cxj
+http://192.168.31.6:35455/huya/30080234
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1051/da/f7ad34d0e4f05947169c68fd202d8c_180_135.jpg?1448267842",勞資ヽ尐爺
+http://192.168.31.6:35455/huya/11342434
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1091/9b/1fdcf39ed483392c7f5fda42c26d7b_180_135.jpg?0",替你挨过揍的朋友
+http://192.168.31.6:35455/huya/11602045
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/3e/77a86476ea51549e0f137b60df0507_180_135.jpg?1723004509",恶魔宝钧
+http://192.168.31.6:35455/huya/30080242
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1047/72/11beb61dbef2cbd49f7a144ba9b459_180_135.jpg?1612427776",冰火岛一霸
+http://192.168.31.6:35455/huya/21059563
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1054/58/675c6f0780a54d32227c3ebd0c9437_180_135.jpg?1719546993",山如翠浪帶
+http://192.168.31.6:35455/huya/26355806
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/fe/16729c8ce149ec3f4a60d8e5a1fac9_180_135.jpg?1618468403",周星星梦里的朱茵
+http://192.168.31.6:35455/huya/21059587
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1046/1e/e99c21e1f185b9c0cda805a0d3a498_180_135.jpg?1612428056",是红鲤鱼绿鲤鱼与驴
+http://192.168.31.6:35455/huya/21059561
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052",悬疑电影放映厅
+http://192.168.31.6:35455/huya/29982641
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/07/e7623616ed8a8672f7ba122a950c1e_180_135.jpg?1721817397",高山流水梦
+http://192.168.31.6:35455/huya/30080174
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1088/bd/85484a0eb2156309986fa8a5741629_180_135.jpg?1612508374",西九龙冠希哥
+http://192.168.31.6:35455/huya/21059579
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1035/39/d1fc7aaae54829703b0e21439f6c29_180_135.jpg?1446129806",麋鹿
+http://192.168.31.6:35455/huya/11342419
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/28/3658d1de251f952720288eda434e38_180_135.jpg?1722507611",东方福尔摩斯
+http://192.168.31.6:35455/huya/30080229
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1053/98/dcdfd2ee5608ce64d16296c2d5325a_180_135.jpg?1449725201",葱花
+http://192.168.31.6:35455/huya/11352938
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/33/51158c5200086284ffda055be1197d_180_135.jpg?1611543884",扁豆看电影2
+http://192.168.31.6:35455/huya/21059623
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/e9/2b08f9e77c66bda06d373f1438f702_180_135.jpg?1721978347",岩石上的树
+http://192.168.31.6:35455/huya/30080222
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/49/70e9684ca9702b380d509ee709f69d_180_135.jpg?1721978090",独一无二小鱼
+http://192.168.31.6:35455/huya/30080219
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/be/3f4d020a042f9434bbd669e6494c39_180_135.jpg?1717410342",百里乐成
+http://192.168.31.6:35455/huya/21059632
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1063/82/d702b2bd9b48791cec0a0e0e30b0bc_180_135.jpg",雨、浮沉
+http://192.168.31.6:35455/huya/11336593
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/af/8acb797b1b7dad46b94a90b3c55b9b_180_135.jpg?1722565964",绝不再虚伪讨好
+http://192.168.31.6:35455/huya/30080232
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/88/7425535c18671318b7ef8f56ac3397_180_135.jpg?1628240758",小羊观影记录
+http://192.168.31.6:35455/huya/25363475
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1095/83/f3e1b9a29f021cb43aa57db2f6b863_180_135.jpg?1697011488",阿神电影
+http://192.168.31.6:35455/huya/29396896
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/e1/8dbf098ead161547481a0d9f78c829_180_135.jpg?1742798985",小师妹说剧
+http://192.168.31.6:35455/huya/19505458
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1024/0a/e2bfc1418d4e2d799c2a1f659ea53e_180_135.jpg",昵称违规-jPhz6R8hIC
+http://192.168.31.6:35455/huya/11352918
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",文君看剧
+http://192.168.31.6:35455/huya/30363916
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1000/f5/ace5427cf0b9ec2506464fda3b8b9b_180_135.jpg",飞天女警
+http://192.168.31.6:35455/huya/11601958
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/21/66fc9599b0dc0fe198a6dec413a1a9_180_135.jpg?1716373377",水至凌云笔
+http://192.168.31.6:35455/huya/21059600
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/56/11205c5f4ca0b9ac7959582ab72ecb_180_135.jpg?1733915562",岳岳追剧呀
+http://192.168.31.6:35455/huya/30438843
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/a1/76c68c28ee20224874db89671c96b3_180_135.jpg?1728380114",电影探长官方
+http://192.168.31.6:35455/huya/30277705
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2b/ab862c63453909e03bdb8a73f3e22e_180_135.jpg?1612508056",状元及第粥
+http://192.168.31.6:35455/huya/21059581
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1031/88/7b633b36a92f6efb9d5375bbecaf44_180_135.jpg?1445856355",羞涩的茄子
+http://192.168.31.6:35455/huya/11336590
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/e0/a03918d19a8aa257449f41d6ffeff2_180_135.jpg?1716775956",吹绿令人老
+http://192.168.31.6:35455/huya/21059613
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b4/49b7034f405681ff8e75e3e512c761_180_135.jpg?1555121287",圣逗事
+http://192.168.31.6:35455/huya/18390254
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1071/c6/3dd8bad49bda872febac6c46e1d6ea_180_135.jpg?1646814536",心动好剧
+http://192.168.31.6:35455/huya/26355781
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1093/4d/e7f7d4a625e21cef29615d478e9ba9_180_135.jpg?0",小松说剧
+http://192.168.31.6:35455/huya/11593369
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/90/00502272c435c9631a02598909486b_180_135.jpg?1743137174",家里有只小汤圆
+http://192.168.31.6:35455/huya/28078466
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/e0/880c33aa433707d87b79198e2d50a8_180_135.jpg?1723717622",我还是不骄傲
+http://192.168.31.6:35455/huya/30080245
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1038/e2/8b8aa989e7ed34e6206eadf80ff6f3_180_135.jpg",沐小错
+http://192.168.31.6:35455/huya/11352956
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/29/778e45e243a40cea76475f22ac7884_180_135.jpg?1602591025",Eric次元宝贝
+http://192.168.31.6:35455/huya/21059552
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/5b/c20b8a4c5554095060dcbf15939298_180_135.jpg?1612247012",为所欲为的墨镜哥
+http://192.168.31.6:35455/huya/23865161
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",电影最TOP2
+http://192.168.31.6:35455/huya/29982676
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/d2/654a18113454bae1c495bd3ffa24d3_180_135.jpg?1612404793",昵称违规-pTSEbHriOn
+http://192.168.31.6:35455/huya/23863796
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",狼肉-影视故事
+http://192.168.31.6:35455/huya/30375709
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1047/b8/9ee0ba4656f6537a18155914c699c3_180_135.jpg?1715673104",是醉芙吖
+http://192.168.31.6:35455/huya/21059599
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",菌边村艾克
+http://192.168.31.6:35455/huya/29465872
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",小宋追剧
+http://192.168.31.6:35455/huya/30310419
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/c1/a64efaeeb398f1dceb115a76b7c31d_180_135.jpg?1699255661",大墨电影
+http://192.168.31.6:35455/huya/29458834
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/e2/b06d39926cb7cbc33b6458772d3e3d_180_135.jpg?1695265471",老巴电影
+http://192.168.31.6:35455/huya/29340502
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/3e/386d88b787faf84b84b0941760ba20_180_135.jpg?1716273245",村村就爱玩
+http://192.168.31.6:35455/huya/21059605
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/46/0fef338af5b456f3f65076b3df3581_180_135.jpg?1653963557",八零影漫
+http://192.168.31.6:35455/huya/27236095
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/d3/9e1fc54c394562a5d69315feb5104c_180_135.jpg?1594361176",刺猬职场说
+http://192.168.31.6:35455/huya/22717669
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",虎扯新车
+http://192.168.31.6:35455/huya/26355820
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/f7/b350cac62571a04fa27e6a9a77f94f_180_135.jpg?1711720005",集集动漫社
+http://192.168.31.6:35455/huya/29832558
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310",普通司机小马
+http://192.168.31.6:35455/huya/23749096
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/bf/792385710447bd226ba66860a6c57b_180_135.jpg?1625554283",晕倒羊一家
+http://192.168.31.6:35455/huya/25107026
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/cf/e9390f9d97ae405c5e484ff7656870_180_135.jpg?1570864857",西哥来了
+http://192.168.31.6:35455/huya/10849208
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",小马追剧
+http://192.168.31.6:35455/huya/30310431
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/c6/7d60d428f88e2feae081dd448dc77f_180_135.jpg?1602591213",来瓶肥宅水
+http://192.168.31.6:35455/huya/21059555
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",驿外空庭得
+http://192.168.31.6:35455/huya/30373502
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/99/231ba49cf0b6c4db373b74accd62e4_180_135.jpg?1619075255",黑眼侃片
+http://192.168.31.6:35455/huya/24609357
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1001/1c/41021344a1ea3ff83bb2a3da9322a3_180_135.jpg?1518263696",小丑电影
+http://192.168.31.6:35455/huya/29869799
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/fe/eec0e3f89cb959023040f71159f3b9_180_135.jpg?1713240072",小v童年
+http://192.168.31.6:35455/huya/29865937
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1030/74/6bb7ec6706120f91025e48b5a6d245_180_135.jpg?1447731426",炙恋兽兽
+http://192.168.31.6:35455/huya/11342428
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/50/689479539c629968c29e078779a17f_180_135.jpg?1711702276",凡人说剧
+http://192.168.31.6:35455/huya/29831090
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/97/4f018ad00e54f37d24982637d47fa6_180_135.jpg?1721206867",秋风美少女
+http://192.168.31.6:35455/huya/30080139
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d8/fa0a985219c9ca8cb8113cdde3717c_180_135.jpg?1573180034",猫眼下的鱼
+http://192.168.31.6:35455/huya/20236200
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/b7/7f44172b9bd802f77ad30e3e153015_180_135.jpg?1721306082",路飞追剧
+http://192.168.31.6:35455/huya/30097024
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1000/3a/51204e1845d990862a5b96b45e672d_180_135.jpg?1606723330",我才是打工人
+http://192.168.31.6:35455/huya/23860039
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1073/83/3a3b598d0419fbb4e8b4aaa7b68f62_180_135.jpg?1463660344",寞尛北
+http://192.168.31.6:35455/huya/11602076
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/d3/3ce5930beb0d9b58080ad1fb14b769_180_135.jpg?1618468898",皮皮皮卡卡皮卡丘
+http://192.168.31.6:35455/huya/21059595
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1058/15/4f81e9c51e3be3c1b5a60799cb9e03_180_135.jpg?1720078876",涵九九是九九
+http://192.168.31.6:35455/huya/29982647
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1093/6c/6925d40d81934111accb2cc812226e_180_135.jpg?1713978511",玩个机枪
+http://192.168.31.6:35455/huya/30356003
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",诗语墨
+http://192.168.31.6:35455/huya/30312383
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1016/6e/8c4c0663da63b3eee64b4e6b7c7e8c_180_135.jpg?1462501351",-小癲
+http://192.168.31.6:35455/huya/11602065
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/a4/38f2ce3b647d57ec17fbf27acd5d2c_180_135.jpg?1607257414",露露姐
+http://192.168.31.6:35455/huya/11601964
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",喵哇塞
+http://192.168.31.6:35455/huya/30344013
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/6d/229a7a8a4471215362b6099ce96115_180_135.jpg?1733915514",大潘影视
+http://192.168.31.6:35455/huya/30439834
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1029/1c/af76d93c9fe545b57441b2451b8cb1_180_135.jpg?1711934545",三哥说武侠
+http://192.168.31.6:35455/huya/29834817
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1018/87/8ddc2d23f878c6c458ffd8fcd96626_180_135.jpg?1621500142",小鹿来了
+http://192.168.31.6:35455/huya/22780175
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",君知钩看了
+http://192.168.31.6:35455/huya/30307439
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1012/de/c53a0f26fe49ef1d956fb1816ed64b_180_135.jpg?1742799631",阿良说剧
+http://192.168.31.6:35455/huya/30296909
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/e1/26268b96d69cc85bbbb4f4feb16e9c_180_135.jpg?1632498086",呆呆的动画
+http://192.168.31.6:35455/huya/29837259
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",A皮皮
+http://192.168.31.6:35455/huya/30375641
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/ad/f2355ca155a42992b20481c3cf7212_180_135.jpg?1704161860",星雪剪辑
+http://192.168.31.6:35455/huya/29868637
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",明年幸运
+http://192.168.31.6:35455/huya/30373458
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2b/82e6247dcb1386a5581032a3f69954_180_135.jpg?1697007758",新海电影
+http://192.168.31.6:35455/huya/29396806
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/b6/7c310c4a89d253f57f66995e4172af_180_135.jpg?1732355577",清泉玄鱼
+http://192.168.31.6:35455/huya/30297342
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",泱泱看剧
+http://192.168.31.6:35455/huya/30373462
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/69/917a51d106c7d42137c04d4430d178_180_135.jpg?1646813350",錦丹广明
+http://192.168.31.6:35455/huya/26355793
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/02/02c6ff8523fb93bfa9e612ed35b4af_180_135.jpg?1612504793",肥猫观影
+http://192.168.31.6:35455/huya/24152470
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1075/22/6b8473b4095563d48d94b5889970db_180_135.jpg?1732211579",南南说动漫
+http://192.168.31.6:35455/huya/30296754
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/5a/5edd7a303264862d1055b18b9f7f68_180_135.jpg?1713854969",影视插班生
+http://192.168.31.6:35455/huya/29882513
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/84/f18ecc215ed8797debe97cd1ce1378_180_135.jpg?1623825779",威廉说
+http://192.168.31.6:35455/huya/24969192
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/a4/085c93cdfac46cf422f30762d90ecd_180_135.jpg?1583838976",昵称违规-QGOoMx3C4k
+http://192.168.31.6:35455/huya/20985822
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/f9/f3f4495dafa8a6901138761ef2c284_180_135.jpg?1583571151",且听我说
+http://192.168.31.6:35455/huya/20985820
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/9e/8eb2b93ad05e0b51612709fb54f1cd_180_135.jpg?1695202450",若雨随影
+http://192.168.31.6:35455/huya/29340713
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1064/01/38afccc29b456848e08bdcfcc594ef_180_135.jpg?1542876356",阿森木木木
+http://192.168.31.6:35455/huya/11601971
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/4b/6bf91b89b58eb5cc31e329acce4549_180_135.jpg?1611543796",狗哥吃火锅2
+http://192.168.31.6:35455/huya/21059624
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/eb/f290675138caebde74795cdf41478c_180_135.jpg?1606377584",十趣文化
+http://192.168.31.6:35455/huya/23707143
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",鸳鸯入帘青
+http://192.168.31.6:35455/huya/30380969
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1028/7d/aa38c9785233dab051a928deb0064b_180_135.jpg?1733909177",鑫鑫影视
+http://192.168.31.6:35455/huya/30439676
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/1e/eb715d03cc887fdba1b418798e9a35_180_135.jpg?1698132635",苏苏追剧
+http://192.168.31.6:35455/huya/29418696
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/41/5bb1814e6dff5d1064fabf0753fc2e_180_135.jpg?1625981028",涵哥评电影
+http://192.168.31.6:35455/huya/16865726
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/dc/7dd9bed0432c40c69b178ed1ff9f9e_180_135.jpg?1715739980",都護鐵衣也君子
+http://192.168.31.6:35455/huya/26355772
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/15/a6e0b1c53349fd819ab15dd3c7db71_180_135.jpg?1612404715",iTVB大后宫
+http://192.168.31.6:35455/huya/23863804
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1047/c2/64f3ff11f880f863ce162f0364746d_180_135.jpg?1646811289",鋪床拂席有清風
+http://192.168.31.6:35455/huya/26355862
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",玩大变成光
+http://192.168.31.6:35455/huya/21059608
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1078/4c/f1042af7267bcae06c6d631b14d33f_180_135.jpg?1465667825",小轩
+http://192.168.31.6:35455/huya/11352899
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",爆裂电影2
+http://192.168.31.6:35455/huya/29982678
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",哀是麦子的球迷2
+http://192.168.31.6:35455/huya/29982673
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",小当家动漫社
+http://192.168.31.6:35455/huya/24257300
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/e2/cb8a559590c045ae43c42e42ae9570_180_135.jpg?1526726457",童可可
+http://192.168.31.6:35455/huya/11352967
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/86/789e89fa3c40d37c3f0ae31e8e5f5d_180_135.jpg?1542942476",我的朋友陈白露小姐
+http://192.168.31.6:35455/huya/11352917
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1078/50/bbf06241567d825837a8220bb99131_180_135.jpg?1713413600",事当赤颈
+http://192.168.31.6:35455/huya/26355835
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1086/4b/a20ea439a14308e0c3d1c4b1f828f8_180_135.jpg",SMG开怀时刻
+http://192.168.31.6:35455/huya/11352908
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/ac/0fb47802217b3de2a9b0e2b2e0676f_180_135.jpg?1730203130",Yo-鹿晚晚
+http://192.168.31.6:35455/huya/139832
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1038/d6/135aa8ccf6c90f6b51687f2de3d992_180_135.jpg?1711441352",威尼斯的贡多拉
+http://192.168.31.6:35455/huya/29465883
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",良奉白豆
+http://192.168.31.6:35455/huya/26355849
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/ed/52f6a6141e3f06f6a6cdbc2f817993_180_135.jpg?1719470429",拉美小姐姐Walesk
+http://192.168.31.6:35455/huya/29982634
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",非凡武林2
+http://192.168.31.6:35455/huya/29982677
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1094/a6/79106bf65d2c4c47bb89c1196aebb4_180_135.jpg?0",嫣然
+http://192.168.31.6:35455/huya/11601977
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1076/19/5a7f48d3e1a87d62e9190297e6cdc0_180_135.jpg?1722327294",春天的希望小仙子
+http://192.168.31.6:35455/huya/30080231
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",御所田南通
+http://192.168.31.6:35455/huya/26355773
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",荒野求生影探2
+http://192.168.31.6:35455/huya/29982683
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1026/f5/a9d9a0bba94bd7017fec7983d65eac_180_135.jpg?1618467853",鲨手不太冷的影迷
+http://192.168.31.6:35455/huya/21059586
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/0b/d11bc7dff071d0aab2e7aa90ad3804_180_135.jpg?1717395409",晓云街道媽
+http://192.168.31.6:35455/huya/21059614
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/76/7eddbbd30d7e9fd724e20d743e493e_180_135.jpg?1721038421",田径精英在奔跑
+http://192.168.31.6:35455/huya/29982660
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1083/61/effe3a49321578a9f231bbb4596194_180_135.jpg",莫小辰
+http://192.168.31.6:35455/huya/11352916
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/e0/108e717e5d0d51763a341878b1352a_180_135.jpg?1643008391",銀河少女-
+http://192.168.31.6:35455/huya/26355760
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1019/27/7ef13b37c65c32e1416217655113c4_180_135.jpg?0",酒窝储存机
+http://192.168.31.6:35455/huya/11602043
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/93/98c6a7b0ff889bce8375c6865ba61e_180_135.jpg?1722421979",芳草细雨烟
+http://192.168.31.6:35455/huya/30080188
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1042/e2/49f7626aba294d9afaa1a29ef9fd8e_180_135.jpg?1447410992",靠谱女青年高小婷
+http://192.168.31.6:35455/huya/11342392
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/68/7104972fe779d8fede88802822721c_180_135.jpg?1542872230",假装
+http://192.168.31.6:35455/huya/11352948
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/a2/fe97238a78b9aa9c6f20a38b2ce2c6_180_135.jpg?1740641855",白马飞飞520
+http://192.168.31.6:35455/huya/29194143
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1024/a7/84ac841cd1ecbd49e77c193b3a4af8_180_135.jpg?1470723433",主播黑猫
+http://192.168.31.6:35455/huya/11352896
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/ac/47807be562a018e25637bddbca69b8_180_135.jpg?1449121405",妖孽CC
+http://192.168.31.6:35455/huya/11352945
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/86/2631e387986b15c83618e8fec2154b_180_135.jpg?1720698822",国际化style
+http://192.168.31.6:35455/huya/29982623
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/6e/66701eb3fad7965cf67999cb653681_180_135.jpg?1552442180",yao不能停
+http://192.168.31.6:35455/huya/11601980
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1030/8a/505b6d646249287e634494517650eb_180_135.jpg?1446036295",李大湿
+http://192.168.31.6:35455/huya/11342417
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/71/30f307bb9b6659022ef20de3849e28_180_135.jpg?1722326726",帅气男大
+http://192.168.31.6:35455/huya/30080226
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",西忆故人喧昨晚
+http://192.168.31.6:35455/huya/26355804
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/11/cafdca9ac888f737eb8a00730c12a8_180_135.jpg?1646811192",仙人万戶侯
+http://192.168.31.6:35455/huya/26355863
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/b0/2ba54b7171c06c6bc08f4ab24f5899_180_135.jpg?1646810966",寒山初弄色
+http://192.168.31.6:35455/huya/26355765
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1073/d6/767bd0c09aff2dbcb713e247b3cdd0_180_135.jpg?1489482086",脑壳不太好
+http://192.168.31.6:35455/huya/11602042
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832",港式宫斗剧
+http://192.168.31.6:35455/huya/23865036
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/fe/2e3e7cc95052222ce53733c301d43d_180_135.jpg?1709197648",以仁皇岭
+http://192.168.31.6:35455/huya/29465871
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/38/62e3c68fca077f3ad9b19c68972082_180_135.jpg?1607323563",做人最要紧开心
+http://192.168.31.6:35455/huya/23824164
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/e2/befd49d47ac9bab60b7e9c536a47e8_180_135.jpg?1721207095",夏至搞笑女20
+http://192.168.31.6:35455/huya/30080142
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1006/8a/0766e8e091d9e28f76bd31c364a3a1_180_135.jpg?1721816744",篮球巅峰
+http://192.168.31.6:35455/huya/30080158
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1091/31/bdeef52846f325c3650510cc8df256_180_135.jpg?1609138995",香港刑侦实录
+http://192.168.31.6:35455/huya/23865058
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/8e/f15bdae72ecdd23bc308c141aa0e18_180_135.jpg?1606791820",我叫山鸡哥
+http://192.168.31.6:35455/huya/23734246
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609",港剧伴你行
+http://192.168.31.6:35455/huya/23903183
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1002/4b/bdd1e31b0131deac50db4173915414_180_135.jpg?1543373465",西红柿
+http://192.168.31.6:35455/huya/11601979
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1024/bd/95f745fdd9e9cd9136d04ae6eabf58_180_135.jpg?1480069122",雅痞不是帅
+http://192.168.31.6:35455/huya/11352953
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114",周董永远的神
+http://192.168.31.6:35455/huya/29982629
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/1b/df3909cf6ca649be2ef6199f61d893_180_135.jpg?1606806346",是大宝贝呀
+http://192.168.31.6:35455/huya/23829543
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1088/0e/844807d417383349bc7dbe2a67a44b_180_135.jpg?1448344550",舞王驾到
+http://192.168.31.6:35455/huya/11342438
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e6/921dc8124c0c9673cb61d2fc59ad1d_180_135.jpg?1606721823",一起来埋堆
+http://192.168.31.6:35455/huya/23734183
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/9b/cad561b732f7d1c75f001b7139d934_180_135.jpg?1718253970",竹叶青说球
+http://192.168.31.6:35455/huya/29982604
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1029/67/1093d45b8b31ecb6b92de69d845d31_180_135.jpg?1646814325",語之不顾細谨
+http://192.168.31.6:35455/huya/26355785
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1062/07/f62cad0662b15db7d75e0df33d5d86_180_135.jpg?1616415843",神行大宝
+http://192.168.31.6:35455/huya/24514506
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1080/5a/698d41f0267d7ec5fe3c55d734d50b_180_135.jpg?1452769985",萌美美
+http://192.168.31.6:35455/huya/11352959
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1052/fd/2b7cca54c637f425732ee4b7f1d75f_180_135.jpg?1453270484",小军迷
+http://192.168.31.6:35455/huya/11352909
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",越哥说电影2
+http://192.168.31.6:35455/huya/29982680
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ff/f7aab657170537f873be7539f4c9ed_180_135.jpg?1650599106",沉默的孤狼啊
+http://192.168.31.6:35455/huya/21059598
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://diy-assets.msstatic.com/lzlfilefolder/2024default_20241031.png",蒲公英电影2
+http://192.168.31.6:35455/huya/29982682
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1083/8b/5793f339dff0a893b225061442a458_180_135.jpg?1463968900",老雷
+http://192.168.31.6:35455/huya/11602034
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ae/c1d9d5bd965f0443396e4e00392765_180_135.jpg?1554088080",虎牙观影团
+http://192.168.31.6:35455/huya/880219
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://huyaimg.msstatic.com/avatar/1027/ab/c18ff61c89d1d8d1b23b6a664f96ef_180_135.jpg",柠檬树下你和我
+http://192.168.31.6:35455/huya/11352892
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/4b77c73f33f343b3a5acc11c20b69efe_big.jpg",baby丶贝贝
+http://192.168.31.6:35455/douyu/431460
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202408/99a191d4381043a5bd99e78767e09713_big.jpg",Poison丶冰冰
+http://192.168.31.6:35455/douyu/74374
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/2232cd94c4074bbd934228ac36914b55_big.jpg",深夜D你上高速
+http://192.168.31.6:35455/douyu/7882691
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg",橙記Orange丶
+http://192.168.31.6:35455/douyu/4549169
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/7a2bdb8c7cfc40bf9c4e62f0b2b95709_big.jpg",深夜D你除三害
+http://192.168.31.6:35455/douyu/12421816
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/0e39c69811c54d9ea5ea29a049d70361_big.jpg",深夜D你去看剧
+http://192.168.31.6:35455/douyu/12434419
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/da18b6ea3de04032bfe5379d8f4f5aeb_big.jpg",怡宝妹妹丶
+http://192.168.31.6:35455/douyu/434971
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg",伊太刀刀
+http://192.168.31.6:35455/douyu/747764
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/1b76c5b4db364b37b0883dd072efe74e_big.jpg",竹叶的熊猫
+http://192.168.31.6:35455/douyu/3870925
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/d174a8d3374743caa3389e0d046e2639_big.jpg",十七岁的道姑
+http://192.168.31.6:35455/douyu/3186217
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/3bc30006afe04a41b9d286d9b07d510e_big.jpg",女团社颜老师
+http://192.168.31.6:35455/douyu/11327316
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/9f76e536b447423dbc1acd86714f7043_big.jpg",baby丶小贝壳
+http://192.168.31.6:35455/douyu/329876
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/0cf244c436f94202aa7fc44661ee0370_big.jpg",奇光主播
+http://192.168.31.6:35455/douyu/8009547
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/e20be6dedf0744429f83acfe3bbcf704_big.jpg",师落
+http://192.168.31.6:35455/douyu/6911044
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/3d5301184d0c4c9abc73d8fc94db111d_big.jpg",龍組队长天昊
+http://192.168.31.6:35455/douyu/1487654
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/4965574564564b5a9330c37a0eb09709_big.jpg",有一辆立标奔驰
+http://192.168.31.6:35455/douyu/12442176
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/094ead99e2c342b089820d5d8057b609_big.jpg",新蓝翔旧三国
+http://192.168.31.6:35455/douyu/12463728
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/023/48/02/55_avatar_big.jpg",我们可爱的程程
+http://192.168.31.6:35455/douyu/329667
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201610/15/00/d31243bd06b6bf5ae33738019ab63b12_big.jpg",刘少丶7012
+http://192.168.31.6:35455/douyu/131977
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202501/d84ff1b1faac45d9a11353a29279cce5_big.jpg",菠萝屋SpongeBob
+http://192.168.31.6:35455/douyu/12400977
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/25f11c7e91c94ea29bc130c53277e4c2_big.jpg",当燕双鹰遇见李元芳
+http://192.168.31.6:35455/douyu/3439096
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202501/fd93fb0e31944204a02fedec51c491db_big.jpg",追梦凌宝
+http://192.168.31.6:35455/douyu/1377142
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/29/11/e40191ab8b3fea78a9af4d7636ae27d6_big.jpg",晓晓666666
+http://192.168.31.6:35455/douyu/426517
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/01_big.jpg",He豪先生
+http://192.168.31.6:35455/douyu/12486866
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg",狂拽酷炫
+http://192.168.31.6:35455/douyu/4332
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_big.jpg",Only丶邵氏
+http://192.168.31.6:35455/douyu/4246519
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/0cc71928fc4540e1afc41f2d5235eaf3_big.jpg",Psvs9527
+http://192.168.31.6:35455/douyu/12477432
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/d56af210b700d7189408044eca2907d2_big.jpg",疯狂尛瀦瀦
+http://192.168.31.6:35455/douyu/4290711
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/04/17/5ced31536273bed685f9f10a956145e5_big.jpg",牛叔说电影
+http://192.168.31.6:35455/douyu/2758565
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/6aab2fe778304dba971223daecb37fc4_big.jpg",新蓝翔新三国
+http://192.168.31.6:35455/douyu/12210085
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34706aa0697749d8b103ffe5e6281813_big.jpg",彼岸零可星球
+http://192.168.31.6:35455/douyu/40471
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_big.jpg",当幽兰剑遇上链子刀
+http://192.168.31.6:35455/douyu/6027991
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_big.jpg",久了旧知
+http://192.168.31.6:35455/douyu/310926
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg",贾贵队长真男神
+http://192.168.31.6:35455/douyu/299854
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg",白了个痴
+http://192.168.31.6:35455/douyu/319576
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202402/e5dac5afefc0471d88f76e418096a11d_big.jpg",单纯的顺才少爷
+http://192.168.31.6:35455/douyu/10084875
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/515e0182255c47738969f4d9d3fcc32f_big.jpg",时光再遇见
+http://192.168.31.6:35455/douyu/4944033
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/010/51/61/02_avatar_big.jpg",懒猫是只喵
+http://192.168.31.6:35455/douyu/260322
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202410/5c17a5473a0d402e8ae539afcedf6768_big.jpg",豆腐芭比
+http://192.168.31.6:35455/douyu/6478650
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/03f48fb671164fa4aa3d133823b5972b_big.jpg",刘松毅
+http://192.168.31.6:35455/douyu/12128227
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg",火龙果说电影
+http://192.168.31.6:35455/douyu/9559158
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/255f1eb5c0a4424eb83cea73b9299f68_big.jpg",永远快乐的小美女
+http://192.168.31.6:35455/douyu/6091425
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/895f8a6efb0d4746b4c6142b03853e77_big.jpg",球球来了呦
+http://192.168.31.6:35455/douyu/12180551
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f1567c8d2e314c2ca1a826db6637e14c_big.jpg",当铁手团遇到光复社
+http://192.168.31.6:35455/douyu/5875025
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/00d5d4cb0bbc4599b4a68e93fbfdef0b_big.jpg",gslaini
+http://192.168.31.6:35455/douyu/6997954
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/4887f1dde8c3ad35c367c2d46b76754a_big.jpg",疯狂小潴潴
+http://192.168.31.6:35455/douyu/5522351
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/a34ef128255641c7826e4c866357a37f_big.jpg",智仗心
+http://192.168.31.6:35455/douyu/5635000
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f3ba01330c414681a903c62679c59dee_big.jpg",702放映厅
+http://192.168.31.6:35455/douyu/10348728
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/70177e932e8d4f1d84b8bc5eed4e23f4_big.jpg",喷子OAO
+http://192.168.31.6:35455/douyu/7253343
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201705/31/22/60b2898f9ca9b0e653bf7a4ad09a1a6e_big.jpg",苹果Zei甜
+http://192.168.31.6:35455/douyu/1174353
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/7ac3ee34aa624efc9903a5407e4de39d_big.jpg",mn静静nm
+http://192.168.31.6:35455/douyu/5668371
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg",万合出品
+http://192.168.31.6:35455/douyu/9220456
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c8bfde51ded543efa82a3a67ef2585fd_big.jpg",PDD影院阿
+http://192.168.31.6:35455/douyu/1274132
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/c593dd94c9de4c62976bdec933656562_big.jpg",米尼影院
+http://192.168.31.6:35455/douyu/7642724
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/36e960ea9abf4b219fb1238b755c266a_big.jpg",万事通熊猫
+http://192.168.31.6:35455/douyu/7812810
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg",牛奶味的梦猪猪
+http://192.168.31.6:35455/douyu/5261342
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/4a19e31284b14e2a893505b8c0a18ffd_big.jpg",一起看港剧
+http://192.168.31.6:35455/douyu/5061550
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg",脑袋大1937
+http://192.168.31.6:35455/douyu/7655471
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/2d2a5e1d512744b195a8f0c7bacdbb73_big.jpg",小毅主播q
+http://192.168.31.6:35455/douyu/6906628
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34b7efbd221a44adab674a37e6237cc9_big.jpg",JhZj丶天明
+http://192.168.31.6:35455/douyu/1006179
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/3c843663a7ab4b4b9ca3725431823622_big.jpg",怀旧经典影视汇
+http://192.168.31.6:35455/douyu/12143022
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/03/18/7040873fd91e01c09fa1706d39f314b4_big.jpg",小片片说大片
+http://192.168.31.6:35455/douyu/4258555
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/2b375f18cb4e488ab5268dc0d0a478b5_big.jpg",菠萝屋的海绵宝宝
+http://192.168.31.6:35455/douyu/3949681
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/ca72a1d2f56943428ef0ecdc04bfa10b_big.jpg",成龙历险纪
+http://192.168.31.6:35455/douyu/2287949
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/13/01/5ff52107c8b699108cccdb5e0750a466_big.jpg",聚聚聚一个月
+http://192.168.31.6:35455/douyu/4105989
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/cce3554153864b53b68a8a8e8c579296_big.jpg",三国颜老师
+http://192.168.31.6:35455/douyu/12253936
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201902/4a23b4202aa54ccfa7054e88a5b87527_big.jpg",傲娇的超级赛亚人
+http://192.168.31.6:35455/douyu/4373285
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/52a560175b194cb081b265b250c464a9_big.jpg",cym009
+http://192.168.31.6:35455/douyu/8231658
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/3aecc83d20214aeda88843038279a965_big.jpg",奇光主播e
+http://192.168.31.6:35455/douyu/11849873
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/a9b27e22efaa40e18a4b380830eb93db_big.jpg",一样二职
+http://192.168.31.6:35455/douyu/11827530
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/7464f3be633f4e86899ff548e0687785_big.jpg",7师傅
+http://192.168.31.6:35455/douyu/17732
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b47d17758975484c826f4f0787c2a2a8_big.jpg",徐大sao
+http://192.168.31.6:35455/douyu/7107176
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/54adb764aba24e0f9ed1536054b8b275_big.jpg",一把钢刀镇斗虞
+http://192.168.31.6:35455/douyu/7356023
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202312/d87895b264f24dfdac6d6bb17410a96f_big.jpg",萌小鬼
+http://192.168.31.6:35455/douyu/3928
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/d9f8f285dfd44bcea3cc3e785cdb429e_big.jpg",科幻Fans布玛
+http://192.168.31.6:35455/douyu/3508304
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg",用户1275665728
+http://192.168.31.6:35455/douyu/9067836
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5ef9d68abb5b45e4afefe8194b5dcd5c_big.jpg",小约翰可汗
+http://192.168.31.6:35455/douyu/9738854
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ca5c676a22624704918926240dafd120_big.jpg",胡椒粉的胡歌
+http://192.168.31.6:35455/douyu/5448413
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/ac2ec21374664a9ca0bfe3851a5fdeb3_big.jpg",开心锤锤动漫
+http://192.168.31.6:35455/douyu/9018297
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_big.jpg",鯋鱼辰辰
+http://192.168.31.6:35455/douyu/7623292
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/792a22940e764b9d80bf0389990dd2ab_big.jpg",老高与小茉的死忠粉
+http://192.168.31.6:35455/douyu/236461
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/9f791f6ca56f442988ba1922b7cc9f37_big.jpg",蕃薯粥粥煮好了
+http://192.168.31.6:35455/douyu/11878141
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/27/09/621d09c7651730db93e9081bc16f4f42_big.jpg",甜漫妮666
+http://192.168.31.6:35455/douyu/1569773
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/c8551e211d0f4e0e8d0e40501355d35f_big.jpg",往事vs随风1
+http://192.168.31.6:35455/douyu/3113309
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/30592252cfc3465eb1c9c047a6b593c1_big.jpg",魔术师丶西索
+http://192.168.31.6:35455/douyu/6610883
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/cdb4acce8f9e41c7a0c68df927ec9cc2_big.jpg",很优美
+http://192.168.31.6:35455/douyu/7528160
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9db730a594c34a7bb96c4408fd03aa24_big.jpg",自说自话的总裁
+http://192.168.31.6:35455/douyu/9317739
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/b18ac277189f44a5943d0b831ee0dfe6_big.jpg",泼辣滴小弟弟
+http://192.168.31.6:35455/douyu/8912325
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12422ecfee974b2199b5e29dec475275_big.jpg",武侠剧场
+http://192.168.31.6:35455/douyu/9285904
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/bf994a8b9969405a97522a81629ab03e_big.jpg",奇兮兮悄陌
+http://192.168.31.6:35455/douyu/953193
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/23_big.jpg",牛叔说电影二台
+http://192.168.31.6:35455/douyu/10010651
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/19ba4a083d154904a748dd5a80372b70_big.jpg",赵本山经典小品
+http://192.168.31.6:35455/douyu/9817716
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/b61890d99600443a8c767554c2b50608_big.jpg",e尒袏
+http://192.168.31.6:35455/douyu/12015111
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/37db5d974e7f44189ca65528a1e6558f_big.jpg",剧能下饭鹰
+http://192.168.31.6:35455/douyu/11931032
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202501/851f4e0b218e43229e8e5efc0ba84dae_big.jpg",小毅主播e
+http://192.168.31.6:35455/douyu/11851549
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/752236d7a9b746d2a8e29b354e482260_big.jpg",PP看动漫
+http://192.168.31.6:35455/douyu/9837291
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/c1de06033fd04b99bbefd5013d3ef928_big.jpg",上海朱医生
+http://192.168.31.6:35455/douyu/4654883
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/65e27dfc059e4b608248289c026c2324_big.jpg",草帽丶海贼团
+http://192.168.31.6:35455/douyu/997925
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/2260f7f6d8484225aed6d9272558682c_big.jpg",傲天皇妃sama
+http://192.168.31.6:35455/douyu/2073
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/ad7a03ce2b8e497bb19aa26f63c6bac4_big.jpg",史君说剧
+http://192.168.31.6:35455/douyu/9419771
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/b782fc34f7c34cca86f7852ae4130b70_big.jpg",开心麻花经典小品
+http://192.168.31.6:35455/douyu/10153463
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/bae1800177704fc4b0969f835890d8e0_big.jpg",北京影帝的分身
+http://192.168.31.6:35455/douyu/9805480
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/4a8714735df74469bb189b0c700a2633_big.jpg",游钓中国李大毛
+http://192.168.31.6:35455/douyu/791411
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202412/0c7bb94e748e4d27b1c138c142ae79d3_big.jpg",猫记丶
+http://192.168.31.6:35455/douyu/9242659
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201705/18/00/393e06154b40a31f45932656087b2d28_big.jpg",发条张的电影最TOP
+http://192.168.31.6:35455/douyu/2164691
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/a6d154015a7e4fbb80f4c4f8ff01ded0_big.jpg",阿园子i
+http://192.168.31.6:35455/douyu/6588759
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202503/8aab6b97d0a943109e73ad8320512711_big.jpg",超级Mary呀
+http://192.168.31.6:35455/douyu/12298536
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",24官频陪你一起看
+http://192.168.31.6:35455/yy/1351186084
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/0398783918/u398783918BOLNn2Hs.jpg",铁齿铜牙纪晓岚
+http://192.168.31.6:35455/yy/1382701828
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/49/2683492868/u2683492868f1o8Uq9.jpg",【经典抗战剧】
+http://192.168.31.6:35455/yy/1354806550
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",111
+http://192.168.31.6:35455/yy/1382571192
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2910095991/u29100959911f7FBSS.png",纪晓岚
+http://192.168.31.6:35455/yy/1382781415
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/97/1721970758/u1721970758EWwEW2Y.jpg",【周星驰】搞笑电影
+http://192.168.31.6:35455/yy/38670875
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/47/0990479943/u990479943HazBdS_8.jpg",李连杰功夫 经典武侠
+http://192.168.31.6:35455/yy/74613175
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/45/2288454061/u2288454061D_S5gvc.jpg",朵宝陪你看狄仁杰
+http://192.168.31.6:35455/yy/1353753252
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/94/2498946673/u2498946673gcQ-w4Y.jpg",小太阳 正在直播
+http://192.168.31.6:35455/yy/29067083
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/76/2627769220/u2627769220CUJwYhX.jpg",小甜甜    闯关东
+http://192.168.31.6:35455/yy/1354689861
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/45/2663457366/u2663457366N7s3OyZ.png",倚天屠龙记 超清
+http://192.168.31.6:35455/yy/1354755003
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2676684134/u2676684134JPj4Cvo.png",雯子：港剧TVB
+http://192.168.31.6:35455/yy/1456829119
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/85/2219859126/u2219859126i34_0Go.jpg",破案港剧
+http://192.168.31.6:35455/yy/1350670730
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624118/u2956624118f61cBrp.jpg",康熙王朝
+http://192.168.31.6:35455/yy/1382851583
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/2552687588/u2552687588tVBVkVY.png",燕双鹰
+http://192.168.31.6:35455/yy/1354143942
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/62/2380627810/u2380627810LnM8Ixj.png",跨过鸭绿江
+http://192.168.31.6:35455/yy/1354508622
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10150.jpg",进来 陪你看动漫
+http://192.168.31.6:35455/yy/1352866135
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/92/2977925579/u2977925579msm09Jf.png",五号特工组
+http://192.168.31.6:35455/yy/1414967772
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2367571304/u2367571304FhJ_J6z.jpg",【飞哥全集】乐乐陪看
+http://192.168.31.6:35455/yy/1352946111
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/34/0061340778/u61340778fDIURys7q.jpg",家花与野花
+http://192.168.31.6:35455/yy/1354420982
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",大家车言论
+http://192.168.31.6:35455/yy/1382570702
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",蜗牛车志
+http://192.168.31.6:35455/yy/1346966271
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2543685369/u2543685369FBM5oVz.jpg",18动漫
+http://192.168.31.6:35455/yy/1354076248
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/24/2454240029/u2454240029tVg2YBr.jpg",雪豹2
+http://192.168.31.6:35455/yy/1450496699
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/21/1575219181/u1575219181j_2vaIy.png",超清鬼片 港片
+http://192.168.31.6:35455/yy/1335509613
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/92/2475926623/u2475926623EEStXWq.jpg",雪中悍刀行
+http://192.168.31.6:35455/yy/1382660835
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/38/2466387565/u2466387565UWEAMh6.jpg",甜心 正在直播
+http://192.168.31.6:35455/yy/1454732419
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/75/2318756333/u2318756333krWTK9R.png",燕双鹰
+http://192.168.31.6:35455/yy/1352227153
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/82/0015822550/u15822550BzB01yLFQ.jpg",鱼美美隋唐英雄传
+http://192.168.31.6:35455/yy/1355102749
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/75/2932756128/u2932756128Zo3N6YO.png",【破案 悬疑 港剧】
+http://192.168.31.6:35455/yy/1382800083
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/18/2299182145/u2299182145vza4_L1.jpg",武林外传经典搞笑
+http://192.168.31.6:35455/yy/1462938994
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",僵尸  港片电影
+http://192.168.31.6:35455/yy/1382780025
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/71/2838711783/u2838711783ZNzG_h5.jpg",惊恐盗暮鬼怪
+http://192.168.31.6:35455/yy/1382749525
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804305/u2563804305b75d55Z.png",国漫动漫
+http://192.168.31.6:35455/yy/1354768828
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/78/2540789452/u2540789452QEa424O.png",无敌燕双鹰
+http://192.168.31.6:35455/yy/23026835
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/61/1722612794/u1722612794bYYvt4M.jpg",笑笑影视 正在直播
+http://192.168.31.6:35455/yy/1508456184
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宝莲灯前传
+http://192.168.31.6:35455/yy/1354931631
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/81/2223817740/u2223817740JU6Tfjw.jpg",8090.电影一哥
+http://192.168.31.6:35455/yy/29197808
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778180/u29567781809cFGq5Q.jpg",情满四合院-小人物的悲欢离合
+http://192.168.31.6:35455/yy/1382851601
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/05/2717053439/u2717053439T9uJ6Fm.png",神探狄仁杰1—5部全集
+http://192.168.31.6:35455/yy/1382705592
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/2552474058/u25524740585EZ7BdS.png",雪儿 正在直播
+http://192.168.31.6:35455/yy/1354143938
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",情满四合院
+http://192.168.31.6:35455/yy/1382736888
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/92/2251927688/u2251927688Jmyz_60.jpg",【案发现场】1-4部全集
+http://192.168.31.6:35455/yy/33567888
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/15/2258155157/u2258155157_PwkbsN.png",国漫 一起看正在直播
+http://192.168.31.6:35455/yy/1351417866
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/88/2894881561/u2894881561Tyg0AqM.jpg",父母的爱情
+http://192.168.31.6:35455/yy/1382768483
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/33/2291330629/u2291330629-Ab2mgi.png",宝宝 正在直播
+http://192.168.31.6:35455/yy/1420843376
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/52/2663522678/u2663522678CWauMbO.jpg",勇敢的心 ~24经典好剧
+http://192.168.31.6:35455/yy/1354744544
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",喨剑电视剧
+http://192.168.31.6:35455/yy/1453810838
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/05/0166055038/u1660550386RKY4Bj1.jpg",军旅剧（回忆经典）
+http://192.168.31.6:35455/yy/1356306672
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/30/2632308599/u2632308599zmh830o.jpg",经典好剧
+http://192.168.31.6:35455/yy/1354555195
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2460526223/u24605262233FAgbOU.png",西游记后传 蓝光
+http://192.168.31.6:35455/yy/1353392400
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",火蓝刀锋
+http://192.168.31.6:35455/yy/1458239444
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/2661680795/u2661680795XQjhE-r.jpg",丫头动漫 斗罗斗破
+http://192.168.31.6:35455/yy/1458722520
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/2663798665/u2663798665CkJMDK0.jpg",火凤凰之战狼七
+http://192.168.31.6:35455/yy/1463088777
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804534/u2563804534mupdNru.png",斗罗小舞 正在直播
+http://192.168.31.6:35455/yy/1354768831
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/67/2555670393/u2555670393GyWsYT-.jpg",【经典港片】佟瑶
+http://192.168.31.6:35455/yy/23531261
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/99/2210990252/u2210990252S5d-SvQ.jpg",周星驰喜剧武侠恐怖好看
+http://192.168.31.6:35455/yy/29945997
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/2457695773/u2457695773CLTNZzR.jpg",【陪你看】金刚葫芦娃
+http://192.168.31.6:35455/yy/1353323999
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号-每天笑不停
+http://192.168.31.6:35455/yy/1382741642
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/53/2241532024/u2241532024p4_J3OD.jpg",泡芙陪你看电影
+http://192.168.31.6:35455/yy/24407222
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/04/2281046878/u2281046878cBeOWeK.jpeg",倚天屠龙记
+http://192.168.31.6:35455/yy/33300793
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/92/1529929232/u1529929232hMV18mo.jpg",带你探索奥秘
+http://192.168.31.6:35455/yy/1331686180
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",二号交通站
+http://192.168.31.6:35455/yy/1382735582
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624116/u2956624116LN4j6HE.jpg",刑事侦缉档案I
+http://192.168.31.6:35455/yy/1382851585
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",双月之城-国漫
+http://192.168.31.6:35455/yy/1382736907
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778165/u2956778165RKtikAg.jpg",绗��叉�婀�
+http://192.168.31.6:35455/yy/1382851576
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",赌神-发哥
+http://192.168.31.6:35455/yy/1354889044
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778173/u2956778173d4Hhqbe.jpg",寻秦记-穿越剧经典
+http://192.168.31.6:35455/yy/1382851591
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778167/u2956778167Z_BVVcc.jpg",炊事班的故事II
+http://192.168.31.6:35455/yy/1382851579
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624117/u2956624117199l2Fq.jpg",二号交通站
+http://192.168.31.6:35455/yy/1382851582
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10139.jpg",林正英合集
+http://192.168.31.6:35455/yy/1453996620
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/64/1612648695/u1612648695_F1cQTm.jpg",电影
+http://192.168.31.6:35455/yy/37454459
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",金婚
+http://192.168.31.6:35455/yy/1382828768
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",【电视剧】天下第一
+http://192.168.31.6:35455/yy/1354780649
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/64/2804646270/u2804646270wnZasbb.jpg",动漫
+http://192.168.31.6:35455/yy/1382747970
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/268/268/90/2238903813/u22389038135NRk88S.png",【港台】鬼片 惊悚 喜剧
+http://192.168.31.6:35455/yy/1351030377
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/54/2271542081/u22715420810ussqWX.png",经典动漫
+http://192.168.31.6:35455/yy/24180320
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/37/2325373675/u2325373675JONK6j-.jpg",小爽东北菇凉，求守护
+http://192.168.31.6:35455/yy/1382609850
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/33/2388339726/u2388339726YssCero.jpg",港片电影
+http://192.168.31.6:35455/yy/33897188
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10138.jpg",动漫
+http://192.168.31.6:35455/yy/22777075
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",动漫
+http://192.168.31.6:35455/yy/25055036
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/29/1385295905/u1385295905sQ8a7jK.jpg",24【动漫】正在直播
+http://192.168.31.6:35455/yy/1350984033
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10121.jpg",动漫
+http://192.168.31.6:35455/yy/1382788679
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/88/0058881853/u58881853iX36PqSy6.jpg",8090年的热血与回忆
+http://192.168.31.6:35455/yy/1356243352
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/13/2182134254/u2182134254AUXW0Al.jpg",动漫
+http://192.168.31.6:35455/yy/23993334
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/36/2946364405/u2946364405aHoUCap.jpg",探案！探案！
+http://192.168.31.6:35455/yy/1382829413
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/86/2698867296/u2698867296pUy_YIe.png",老妖恐鬼片
+http://192.168.31.6:35455/yy/1354952229
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/20/2559209961/u2559209961mR796jI.jpg",鬼片恐怖私家影院
+http://192.168.31.6:35455/yy/1354209316
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/43/1702436400/u1702436400K_-znF2.jpg",玄幻道墓
+http://192.168.31.6:35455/yy/1459714870
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/88/2453889186/u2453889186v0MbEbT.png",狂飙
+http://192.168.31.6:35455/yy/1382627144
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",华子系列
+http://192.168.31.6:35455/yy/1354888726
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/44/2647443857/u2647443857Zo0gTG_.png",易中天品三国完整版
+http://192.168.31.6:35455/yy/1461244449
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/26/2725264611/u27252646113jBUSkD.png",【科幻电影】
+http://192.168.31.6:35455/yy/1355065896
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",侏罗纪世界-国外科幻大片合集
+http://192.168.31.6:35455/yy/1382736851
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/91/0090919811/u9091981194wENNVVt.jpg",经典电视剧
+http://192.168.31.6:35455/yy/25444932
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",距离你500米
+http://192.168.31.6:35455/yy/37264974
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",二号交通站
+http://192.168.31.6:35455/yy/1354930965
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宋小宝春晚小品合集
+http://192.168.31.6:35455/yy/1382736866
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/79/2663798501/u2663798501bhbC54t.jpg",布丁-玄幻电影正在直播
+http://192.168.31.6:35455/yy/1455460998
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/100100/100/100/76/0840767902/u840767902R7yIozHw.gif",惊悚，恐怖欢迎点播
+http://192.168.31.6:35455/yy/67857780
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/33/1851338003/u1851338003ojuBP6L.jpg",燕双鹰
+http://192.168.31.6:35455/yy/22089862
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/01/2870013294/u2870013294BCj_fCA.jpg",生存大战，尽显人性
+http://192.168.31.6:35455/yy/1414864186
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",我爱我家
+http://192.168.31.6:35455/yy/1382851580
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",憨豆先生-经典喜剧
+http://192.168.31.6:35455/yy/1354936239
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",亲爱的热爱的
+http://192.168.31.6:35455/yy/1354932433
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",流行古装剧—知否知否应是绿肥红瘦
+http://192.168.31.6:35455/yy/1354936134
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523393/u2454523393Gv5PS_m.png",寻秦记
+http://192.168.31.6:35455/yy/1354658048
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",易中天品三国
+http://192.168.31.6:35455/yy/1354931498
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",小师妹rua
+http://192.168.31.6:35455/yy/1382736975
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宫锁珠帘
+http://192.168.31.6:35455/yy/1354926666
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",周星星系列
+http://192.168.31.6:35455/yy/1354888671
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/38/2394384122/u2394384122VQdi7gf.jpg",黄金瞳
+http://192.168.31.6:35455/yy/1353215589
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",新世界
+http://192.168.31.6:35455/yy/1382736850
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国外科幻大作合集
+http://192.168.31.6:35455/yy/1382736836
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",一分钟学道菜
+http://192.168.31.6:35455/yy/1382736901
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",田园生活
+http://192.168.31.6:35455/yy/1382736898
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2639576898/u2639576898eimHG6j.png",华矩小九er 电 正在直播
+http://192.168.31.6:35455/yy/1354690927
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",岳云鹏宋小宝也来演电影了？
+http://192.168.31.6:35455/yy/1354926612
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624115/u2956624115uHDCmW7.jpg",����������
+http://192.168.31.6:35455/yy/1382851578
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",一笑倾城
+http://192.168.31.6:35455/yy/1382735553
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/38/2679387278/u2679387278_B3NLfN.jpg",新主播，求照顾
+http://192.168.31.6:35455/yy/1382690406
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",你最爱的宋小宝
+http://192.168.31.6:35455/yy/1354936198
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",法证先锋Ⅱ
+http://192.168.31.6:35455/yy/1382851597
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超炫科幻大片
+http://192.168.31.6:35455/yy/1382736840
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",穿越时空的爱恋
+http://192.168.31.6:35455/yy/1382735567
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号
+http://192.168.31.6:35455/yy/1354931582
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",漫威十年老粉福利来了
+http://192.168.31.6:35455/yy/1354930233
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/34/2728343853/u27283438539E-vVex.png",正阳门下 正在直播
+http://192.168.31.6:35455/yy/1453059740
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778161/u2956778161rUYdVf2.jpg",最美的青春
+http://192.168.31.6:35455/yy/1382851530
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",甜甜的恋爱 这狗粮我吃了
+http://192.168.31.6:35455/yy/1354932438
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",农家小菜
+http://192.168.31.6:35455/yy/1382736894
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",小宝让你乐翻天：6到9集
+http://192.168.31.6:35455/yy/1354930971
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778163/u295677816358dgO10.jpg",魔幻手机
+http://192.168.31.6:35455/yy/1382851541
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宫心计-港剧-古装
+http://192.168.31.6:35455/yy/1354933540
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/400/400/62/2956624099/u2956624099zq6TnkP.jpg",1920年代经典电影
+http://192.168.31.6:35455/yy/1356363810
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",进来 陪你看电视
+http://192.168.31.6:35455/yy/1353518742
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",谈判专家
+http://192.168.31.6:35455/yy/1382735560
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",野山鹰-影视剧
+http://192.168.31.6:35455/yy/1354932395
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",中国味道 第4季-美食纪录片
+http://192.168.31.6:35455/yy/1382736845
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宫心计
+http://192.168.31.6:35455/yy/1382828769
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号3
+http://192.168.31.6:35455/yy/1382736822
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",转角遇到爱
+http://192.168.31.6:35455/yy/1382745085
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/61/2776614296/u2776614296I-UF63X.jpg",电视剧电影精彩播放中
+http://192.168.31.6:35455/yy/1355166518
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号
+http://192.168.31.6:35455/yy/1382735550
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",末日系列-外国电影合集
+http://192.168.31.6:35455/yy/1354889019
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",精彩电视剧，热血老片
+http://192.168.31.6:35455/yy/1414864181
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/69/2865695034/u2865695034URcuAqM.jpg",鹊刀门传奇2
+http://192.168.31.6:35455/yy/1356051105
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/56/2297569025/u2297569025rZVX8JD.jpg",与风行
+http://192.168.31.6:35455/yy/1352833750
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",以家人之名
+http://192.168.31.6:35455/yy/1382736908
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",本山快乐营
+http://192.168.31.6:35455/yy/1354933529
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/82/2982829798/u2982829798oWwdiN5.jpg",古装武侠剧
+http://192.168.31.6:35455/yy/1382881708
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",精彩动作电影享不停
+http://192.168.31.6:35455/yy/1382736809
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",流金岁月-经典港剧
+http://192.168.31.6:35455/yy/1382736891
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",原始人大挑战
+http://192.168.31.6:35455/yy/1382736884
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",妖神记
+http://192.168.31.6:35455/yy/1382745171
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/0063695166/u63695166-62tXa-Fx.png",24小时循环播电视剧
+http://192.168.31.6:35455/yy/53320802
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",大侦探霍桑
+http://192.168.31.6:35455/yy/1382737886
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",哑巴竟然会说话
+http://192.168.31.6:35455/yy/1354932427
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超英集结
+http://192.168.31.6:35455/yy/1382745091
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",施公奇案2-欧阳震华
+http://192.168.31.6:35455/yy/1382736824
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",娘亲舅大
+http://192.168.31.6:35455/yy/1354932360
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",来自星星的你
+http://192.168.31.6:35455/yy/1354930976
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",飞虎之雷霆极战
+http://192.168.31.6:35455/yy/1382736869
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",金星脱口秀-爆笑回归
+http://192.168.31.6:35455/yy/1382749951
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/86/2869863645/u2869863645hloEJqD.jpg",时代剧，黄土高天
+http://192.168.31.6:35455/yy/1414864180
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/84/2763846360/u2763846360XS-TWTu.jpg",和你不见不散
+http://192.168.31.6:35455/yy/1355635293
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超燃警匪片
+http://192.168.31.6:35455/yy/1382735576
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",飞虎之潜行极战
+http://192.168.31.6:35455/yy/1354932420
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国外动作大片
+http://192.168.31.6:35455/yy/1382735540
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",探秘中华美食
+http://192.168.31.6:35455/yy/1354930954
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/400/400/77/2956778136/u2956778136fhU7opB.jpg",1930年代经典电影
+http://192.168.31.6:35455/yy/1356363815
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/25/1153259720/u1153259720NWZOU9K.jpg",老卓电影
+http://192.168.31.6:35455/yy/1354770516
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",粟裕大将-影视
+http://192.168.31.6:35455/yy/1354926542
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",漫画解说
+http://192.168.31.6:35455/yy/1382735568
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",老夫少妻搞笑忘年恋
+http://192.168.31.6:35455/yy/1354932391
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",闲暇观看综艺
+http://192.168.31.6:35455/yy/1354932379
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",重生之超级赛亚人
+http://192.168.31.6:35455/yy/1354936124
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",了不起的萝莉小玲
+http://192.168.31.6:35455/yy/1382736799
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778178/u2956778178YJKxE-w.jpg",国内喜剧
+http://192.168.31.6:35455/yy/1382851598
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",请回答1988
+http://192.168.31.6:35455/yy/1354932362
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",辉煌或疯狂-韩剧
+http://192.168.31.6:35455/yy/1382749902
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",小生物的故事
+http://192.168.31.6:35455/yy/1382736834
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",深海利剑
+http://192.168.31.6:35455/yy/1382736906
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",黄大妮-电视剧
+http://192.168.31.6:35455/yy/1354930904
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/45/2963452589/u2963452589vIfV615.jpg",绝版鬼片超好看
+http://192.168.31.6:35455/yy/1356245009
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",能耐大了第1季
+http://192.168.31.6:35455/yy/1354930195
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",TVB收视爆剧-溏心风暴
+http://192.168.31.6:35455/yy/1382736916
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",精彩动作电影
+http://192.168.31.6:35455/yy/1382736823
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",百家讲坛――之明太祖朱元璋
+http://192.168.31.6:35455/yy/1354936149
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国外黑色喜剧：冷幽默小剧场
+http://192.168.31.6:35455/yy/1382745175
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/87/2892874859/u2892874859LdOcolq.jpg",欢迎光临
+http://192.168.31.6:35455/yy/1355532933
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",飓风营救
+http://192.168.31.6:35455/yy/1382735547
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",港片教你追女仔—最佳损友
+http://192.168.31.6:35455/yy/1382736917
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523390/u2454523390RHu9rXs.png",强悍“杀猪婆”的励志人生
+http://192.168.31.6:35455/yy/1354658062
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",一起来笑吧
+http://192.168.31.6:35455/yy/1454859415
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国产家庭电视剧-如果岁月可回头
+http://192.168.31.6:35455/yy/1382736883
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宇宙护卫队--国漫
+http://192.168.31.6:35455/yy/1382736837
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",远去的飞鹰-影视剧
+http://192.168.31.6:35455/yy/1354930912
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",真心想让你幸福
+http://192.168.31.6:35455/yy/1382736876
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",惊险刺激！国内最新战争大片
+http://192.168.31.6:35455/yy/1382745189
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",施公奇案1-欧阳震华
+http://192.168.31.6:35455/yy/1382749918
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国内动作大片
+http://192.168.31.6:35455/yy/1382745176
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",巾帼枭雄之义海豪情
+http://192.168.31.6:35455/yy/1382736859
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",来看修牛蹄
+http://192.168.31.6:35455/yy/1382749887
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/37/2465371126/u24653711260Pl_AeS.jpg",影视之娱乐直播
+http://192.168.31.6:35455/yy/1353454489
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",法证先锋Ⅳ
+http://192.168.31.6:35455/yy/1354932426
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国外高分大片
+http://192.168.31.6:35455/yy/1382736867
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",大江大河2-高分影视推荐
+http://192.168.31.6:35455/yy/1382736797
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500352/u2454500352sdfThM7.jpg",学生兵
+http://192.168.31.6:35455/yy/1354658003
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",动物世界-领略原始野性
+http://192.168.31.6:35455/yy/1382743138
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500355/u2454500355m3j9fi4.jpg",我的父亲我的兵
+http://192.168.31.6:35455/yy/1353413714
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",空谷幽兰
+http://192.168.31.6:35455/yy/1382745182
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号58-70
+http://192.168.31.6:35455/yy/1382745119
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",Lisa丽莎
+http://192.168.31.6:35455/yy/1382736807
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号4
+http://192.168.31.6:35455/yy/1382736889
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",金牌喜剧班
+http://192.168.31.6:35455/yy/1354889009
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",白鹿原-国内经典战争片
+http://192.168.31.6:35455/yy/1354931488
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",第8号当铺
+http://192.168.31.6:35455/yy/1382736905
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",温柔好声音 给你停靠港
+http://192.168.31.6:35455/yy/1349538007
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",无敌县令
+http://192.168.31.6:35455/yy/1354932390
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",传奇之王-影视剧
+http://192.168.31.6:35455/yy/1354926735
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",青春不留-致我们终将逝去的青春
+http://192.168.31.6:35455/yy/1382736895
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",迷
+http://192.168.31.6:35455/yy/1382736719
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超燃科幻大片：明日边缘
+http://192.168.31.6:35455/yy/1382736835
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",万里走单骑-解密世界遗产的互动综艺
+http://192.168.31.6:35455/yy/1382736853
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",非诚勿扰
+http://192.168.31.6:35455/yy/1382745106
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",烧脑悬疑电影
+http://192.168.31.6:35455/yy/1382735571
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",机动步队
+http://192.168.31.6:35455/yy/1354932371
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",宠爱-温暖陪伴的宠物情缘
+http://192.168.31.6:35455/yy/1354932405
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",野性欧洲
+http://192.168.31.6:35455/yy/1354926622
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",缺宅男女
+http://192.168.31.6:35455/yy/1354930937
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",本山快乐营
+http://192.168.31.6:35455/yy/1382736852
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",北京爱情故事，心动不打烊
+http://192.168.31.6:35455/yy/1382744423
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",百家讲坛-红楼梦篇
+http://192.168.31.6:35455/yy/1382741639
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",王朝-自然-纪录片
+http://192.168.31.6:35455/yy/1354930927
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/00/1193004896/u1193004896efHzrhK.jpg",最可爱的人
+http://192.168.31.6:35455/yy/1354585554
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",纳尼亚传奇3：黎明踏浪号
+http://192.168.31.6:35455/yy/1382749953
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",爱丽丝梦游仙境2：镜中奇遇记
+http://192.168.31.6:35455/yy/1382735559
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",电影黄飞鸿-燃爆武侠魂
+http://192.168.31.6:35455/yy/1382736841
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",珍珠港-电影
+http://192.168.31.6:35455/yy/1354936234
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523389/u2454523389MlriEhL.png",国外经典—小鬼当家
+http://192.168.31.6:35455/yy/1354658064
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",名媛望族-精彩港剧
+http://192.168.31.6:35455/yy/1354932431
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",破次元大作-蝙蝠侠大战超人
+http://192.168.31.6:35455/yy/1354932441
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",经典搞笑影片
+http://192.168.31.6:35455/yy/1382749878
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",许光汉-关于我和鬼变成家人的那件事
+http://192.168.31.6:35455/yy/1354926671
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",如沐春风
+http://192.168.31.6:35455/yy/1382736810
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",甜蜜青春-致我们暖暖的小时光
+http://192.168.31.6:35455/yy/1382736874
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超治愈！奇趣动物园
+http://192.168.31.6:35455/yy/1382735545
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",本山快乐营2
+http://192.168.31.6:35455/yy/1382736718
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778171/u2956778171bWa0lRW.jpg",太空生命？高分科幻电影开播
+http://192.168.31.6:35455/yy/1382851586
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",高分港剧合集
+http://192.168.31.6:35455/yy/1382735542
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",治愈心灵-解忧杂货店
+http://192.168.31.6:35455/yy/1382745090
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",古往今来-秦皇汉帝的传奇
+http://192.168.31.6:35455/yy/1354936228
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",俺娘田小草
+http://192.168.31.6:35455/yy/1382741638
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢乐集结号2
+http://192.168.31.6:35455/yy/1354930919
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",一条狗的使命
+http://192.168.31.6:35455/yy/1382736873
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",看国家珍稀物种！国家自然纪录片
+http://192.168.31.6:35455/yy/1382736913
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",银河护卫队-国外科幻巨作
+http://192.168.31.6:35455/yy/1382736815
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",山河同在-山河情深的历史见证
+http://192.168.31.6:35455/yy/1382736857
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",向英雄致敬！国内战争片精选
+http://192.168.31.6:35455/yy/1382745124
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超越种族的爱恋-暮光之城
+http://192.168.31.6:35455/yy/1382745179
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",迎财神-暴走财神
+http://192.168.31.6:35455/yy/1354936238
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",经典喜剧-三枪拍案惊奇
+http://192.168.31.6:35455/yy/1382736849
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",YY用户
+http://192.168.31.6:35455/yy/85042287
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",大唐双龙传
+http://192.168.31.6:35455/yy/1354930979
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/50/2967501668/u2967501668pfxceIr.jpg",征服
+http://192.168.31.6:35455/yy/1461655788
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",苦乐村官
+http://192.168.31.6:35455/yy/1382736864
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",风靡全球的谍战片
+http://192.168.31.6:35455/yy/1382736817
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",脑洞大开的精彩科幻片
+http://192.168.31.6:35455/yy/1382736723
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778159/u2956778159YIxm4k1.jpg",林允张新成领衔-蜗牛与黄鹂鸟
+http://192.168.31.6:35455/yy/1382851148
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",风味原产地潮汕
+http://192.168.31.6:35455/yy/1382745178
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",当旺爸爸-港剧
+http://192.168.31.6:35455/yy/1354936208
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",揭秘！经典传奇背后的未解之谜
+http://192.168.31.6:35455/yy/1382736912
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",超人女友-超级能力的甜蜜爱情
+http://192.168.31.6:35455/yy/1382736893
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",战胜心魔-当怪物来敲门
+http://192.168.31.6:35455/yy/1382749910
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",弹珠传说
+http://192.168.31.6:35455/yy/1354930945
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国风巨制-妖猫传
+http://192.168.31.6:35455/yy/1382736820
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",看了都想吐槽-蒸发太平洋
+http://192.168.31.6:35455/yy/1382736825
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",蜘蛛侠1：超凡蜘蛛侠
+http://192.168.31.6:35455/yy/1382749940
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",小米粒Mili
+http://192.168.31.6:35455/yy/1382736842
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778166/u2956778166PzRg4bd.jpg",付航脱口秀-幽默吐槽的生活智慧
+http://192.168.31.6:35455/yy/1382851602
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",烧脑经典-决胜法庭
+http://192.168.31.6:35455/yy/1382745190
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",金庸经典-射雕英雄传
+http://192.168.31.6:35455/yy/1354889042
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/22/3044229827/u3044229827zhPyiV-.png",笑傲江湖
+http://192.168.31.6:35455/yy/1458133834
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",精彩喜剧-笑嗷喜剧人
+http://192.168.31.6:35455/yy/1382736844
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",长安汽车UNI-T直播
+http://192.168.31.6:35455/yy/1349602814
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",云享健康
+http://192.168.31.6:35455/yy/1382736896
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",潜行者
+http://192.168.31.6:35455/yy/1382749888
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",西游之双圣战神
+http://192.168.31.6:35455/yy/1354936199
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",血战狙击岭!硝烟过后是曙光！
+http://192.168.31.6:35455/yy/1354936136
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",爆笑-神偷大师
+http://192.168.31.6:35455/yy/1382745122
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",能耐大了！德云社演技爆棚
+http://192.168.31.6:35455/yy/1354930915
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",丁大命
+http://192.168.31.6:35455/yy/1382735579
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",战火芭蕾-战火中的舞蹈之梦
+http://192.168.31.6:35455/yy/1354930984
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",缺宅男女-精彩港剧
+http://192.168.31.6:35455/yy/1382745088
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国内动作大片
+http://192.168.31.6:35455/yy/1382749917
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",爆笑来袭-小品欢乐集结号
+http://192.168.31.6:35455/yy/1382735558
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",什么会让你快乐
+http://192.168.31.6:35455/yy/54886912
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",小鱼干
+http://192.168.31.6:35455/yy/1382736816
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",神厨小福贵
+http://192.168.31.6:35455/yy/1382736860
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",动作大片-叶问宗师觉醒
+http://192.168.31.6:35455/yy/1354936181
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/22/2728220271/u2728220271kJWq53d.png",经典电影 港片枪战
+http://192.168.31.6:35455/yy/1355076627
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10100.jpg",国内科幻片来袭
+http://192.168.31.6:35455/yy/1354930821
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",深夜惊悚动作大片
+http://192.168.31.6:35455/yy/1382745110
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/34/2810343459/u2810343459ZJIhsLP.jpg",迷糊不迷糊 正在直播
+http://192.168.31.6:35455/yy/1461931969
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",体验另一种生活！
+http://192.168.31.6:35455/yy/1354936229
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",赵本山爆笑小品2
+http://192.168.31.6:35455/yy/1354936217
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",国外巨制-我的野蛮女友
+http://192.168.31.6:35455/yy/1382749911
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",我的超人女友（普通话）
+http://192.168.31.6:35455/yy/1354936210
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",心理追凶-烧脑港剧
+http://192.168.31.6:35455/yy/1354936207
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",名不虚传-韩剧
+http://192.168.31.6:35455/yy/1382749904
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",云霄之上，不一样的战争片
+http://192.168.31.6:35455/yy/1382735627
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",维和女警：暴力安全区勇斗恶徒
+http://192.168.31.6:35455/yy/1382749912
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",笑到颤抖，重温超时空同居
+http://192.168.31.6:35455/yy/1382735561
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",冯小刚执导喜剧爱情片-非诚勿扰2
+http://192.168.31.6:35455/yy/1382735556
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",笑到不行--欢乐集结号
+http://192.168.31.6:35455/yy/1382749913
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",经典之作-复仇者
+http://192.168.31.6:35455/yy/1354932375
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/71/2651718170/u2651718170Hmb3dUU.jpg",欧美配音电影！！！
+http://192.168.31.6:35455/yy/1354693629
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",百家讲坛-之女皇武则天
+http://192.168.31.6:35455/yy/1354889015
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",港剧经典-我家无难事
+http://192.168.31.6:35455/yy/1382736715
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",铁娘子-女性力量铸就的辉煌
+http://192.168.31.6:35455/yy/1382736819
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",海外战争-中国推销员
+http://192.168.31.6:35455/yy/1382741640
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",女医明妃传
+http://192.168.31.6:35455/yy/1382736861
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",贾耗脱口秀-笑点密集的欢乐时光
+http://192.168.31.6:35455/yy/1382736872
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",中国味道4-美食之旅再启程
+http://192.168.31.6:35455/yy/1382736920
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://s1.yy.com/guild/header/10108.jpg",环球追捕，尖峰时刻带你狂飙全球
+http://192.168.31.6:35455/yy/1354658051
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",时空救援队-穿越时空的勇敢救援
+http://192.168.31.6:35455/yy/1354932365
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",陪你一起看好剧
+http://192.168.31.6:35455/yy/1354932359
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",薯条电影-电影点评与赏析
+http://192.168.31.6:35455/yy/1382735552
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",花中风暴
+http://192.168.31.6:35455/yy/1354936116
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",怪医文三块-影视剧
+http://192.168.31.6:35455/yy/1354936154
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",拳职妈妈
+http://192.168.31.6:35455/yy/1354936170
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",鸭子天空-翱翔于篮球的梦想
+http://192.168.31.6:35455/yy/1354930894
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",胡杏儿出演港剧-巴不得爸爸
+http://192.168.31.6:35455/yy/1382749890
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",草台喜剧-爆笑小品大集合
+http://192.168.31.6:35455/yy/1354936214
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624111/u2956624111RwgKyF4.jpg",食味暹罗-品味泰国的美食与文化
+http://192.168.31.6:35455/yy/1382851137
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500353/u2454500353ZqY-oXw.jpg",悬疑剧-河神
+http://192.168.31.6:35455/yy/1353413683
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",娱+仙侠古装全系列
+http://192.168.31.6:35455/yy/1452527211
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/vipsys/11/65/11/2883116511/T18Qb_B5W91RCvBVdK.png",林正英-经典电影
+http://192.168.31.6:35455/yy/1461666695
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",重装机甲来袭！
+http://192.168.31.6:35455/yy/1382735566
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",都市佳人
+http://192.168.31.6:35455/yy/1382736865
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",仙灵儿
+http://192.168.31.6:35455/yy/1382736887
+#EXTINF:-1 group-title="肥羊" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/21/2389216572/u2389216572QcwfAQt.jpg",倚天屠龙记
+http://192.168.31.6:35455/yy/1354585252
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",便利店新星-青春便利店奋斗记
+http://192.168.31.6:35455/yy/1354936221
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",你爱看的抗日大片
+http://192.168.31.6:35455/yy/1354936160
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",铭记的岁月-老人与海
+http://192.168.31.6:35455/yy/1354936195
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",欢喜邻居-霸道爱情的甜蜜篇章
+http://192.168.31.6:35455/yy/1354933556
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",闫妮主演-疯狂72小时
+http://192.168.31.6:35455/yy/1354936169
+#EXTINF:-1 group-title="肥羊" tvg-logo="https://s1.yy.com/guild/header/10001.jpg",港片电影电影
+http://192.168.31.6:35455/yy/1460969623
 
-#EXTINF:-1  group-title="综合", 周星驰
+
+
+
+#网络频道
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="网络",cctv1-高码
+http://112.46.85.60:8009/hls/501/index.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="网络",cctv2-高码
+http://112.46.85.60:8009/hls/502/index.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="网络",cctv3-高码
+http://112.46.85.60:8009/hls/3/index.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="网络",cctv4-高码
+http://112.46.85.60:8009/hls/4/index.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="网络"cctv5-高码
+http://112.46.85.60:8009/hls/503/index.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="网络",CCTV-5+
+http://222.219.183.103:8089/hls/19/index.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="网络",CCTV-6
+http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="网络",cctv8-高码
+http://112.46.85.60:8009/hls/8/index.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="网络",cctv10-高码
+http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="网络",cctv13-高码
+http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="网络",cctv14-高码
+http://36.105.100.208:35455/gaoma/cctv14.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="网络",cctv15-高码
+http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="网络",动物自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1  group-title="网络", 周星驰
 http://1.94.31.214:35455/huya/11342412
-
-
-#EXTINF:-1  group-title="综合", 超级电影
+#EXTINF:-1  group-title="网络", 超级电影
 http://115.132.201.25:8080/TVOD/1000000001000012884/ystenlive/index.m3u8
-#EXTINF:-1  group-title="综合", 星卫电影
+#EXTINF:-1  group-title="网络", 星卫电影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-#EXTINF:-1  group-title="综合", 电影轮播1
+#EXTINF:-1  group-title="网络", 电影轮播1
 http://218.12.88.65/live/20415rnWbjg6Ex1K_2000.flv?302_type=cold_aggr&_session_id=4042540333.n.cn-mw1mqp.ewvz_13986&cac=1&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1a%2F20415rnWbjg6Ex1K_2000.flv%3FwsAuth%3D3b64dd17d293b133c58bda21e3147e5b%26token%3Dcpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay2&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-mw1mqp.ewvz.nss&redirect_from_ip=218.98.53.132&redirect_to=fr.cn-glzu4j&redirect_to_ip=218.12.88.65&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&vhost=tc-tct.douyucdn2.cn&wsAuth=3b64dd17d293b133c58bda21e3147e5b
 
 
